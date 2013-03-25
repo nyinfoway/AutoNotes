@@ -1,0 +1,223 @@
+{
+"auto_notes_title": {
+    "message": "Auto Notes"
+ },
+ "auto_notes_note_saved_is_empty": {
+    "message": "Saved Notes is empty."
+ },
+  "auto_notes_open_saved_note": {
+    "message": "Please open saved note to remove."
+ },
+   "auto_notes_is_removed": {
+    "message": "is removed."
+ }, "auto_notes_is_renamed": {
+    "message": "is renamed."
+ },
+    "auto_notes_error_remove_it": {
+    "message": ":: not accepted."
+ },
+     "auto_notes_current_note_is_save_and_this_is_current": {
+    "message": "Your existing current notes is saved.And this is your current notes."
+ },
+     "auto_notes_saved": {
+    "message": "Note Saved."
+ },
+"option_extension_Your_notes_are_intact": {
+    "message": "Your notes are intact."
+  },
+"option_extension_Are_you_sure_to_delete_your_notes": {
+    "message": "Are you sure to delete your notes?"
+  },
+"option_extension_All_rights_reserved": {
+    "message": "2012 All rights reserved"
+  },
+  "option_extension_option_page": {
+    "message": "Show options"
+  },
+  "option_extension_current_options": {
+    "message": "Current options for Auto Notes:"
+  },
+  "option_extension_modify_option": {
+    "message": "Modify Options"
+  },
+  "option_extension_youtube_demo": {
+    "message": "Youtube demo"
+  },
+   "option_extension_show_notes_page": {
+    "message": "Current Notes"
+  },
+"option_extension_Google": {
+    "message": "Google+"
+  },
+"option_extension_Facebook": {
+    "message": "Facebook"
+  },
+"option_extension_Twitter": {
+    "message": "Twitter"
+  },
+"option_extension_Print_notes": {
+    "message": "Print notes"
+  },
+"option_extension_Email_notes": {
+    "message": "Email notes"
+  },
+ "showNotes_extension_your_notes_on": {
+    "message": "Your Current Notes"
+  },
+  "showNotes_extension_no_notes": {
+    "message": "No notes found, use copy notes command to add notes."
+  },
+"showNotes_extension_current_commands": {
+    "message": "Your commands for Auto Notes"
+  },
+"showNotes_extension_faq_list": {
+    "message": "Frequently Asked Questions"
+  },
+"showNotes_extension_options": {
+    "message": "Auto Notes Options"
+  },
+  "showNotes_extension_options_current": {
+    "message": "Current options for Auto Notes"
+  },
+"showNotes_extension_features_list": {
+    "message": "Auto notes list of features"
+  },
+ "option_extension_Hide_Bullets": {
+    "message": "Hide Bullets"
+  },
+"option_extension_Hide_URLs": {
+    "message": "Hide URLs"
+  },
+"option_extension_copy_on_select": {
+    "message": "Auto copy:"
+  },
+"option_extension_copy_notes": {
+    "message": "Copy notes:"
+  },
+ "option_extension_auto_enabled": {
+    "message": "Auto copy:"
+  },
+ "option_extension_delete_notes": {
+    "message": "Delete notes:"
+  },
+"option_extension_show_notes": {
+    "message": "Show notes:"
+  },
+"option_extension_show_options": {
+    "message": "Show Options:"
+  },
+"option_extension_select_colour": {
+    "message": "Select colour of notes:"
+  },
+"option_extension_show_notes_in": {
+    "message": "Show notes in:"
+  },
+  "chrome_extension_name": {
+    "message": "Auto Notes"
+  },
+  "chrome_extension_title": {
+    "message": "Auto Notes"
+  },
+  "chrome_extension_description": {
+    "message": "Automatic notes for Google Chrome."
+  },
+  "contents_notes_added_notification": {
+    "message": "Note added..."
+  },
+  "options_chrome_restricted_key_alert": {
+    "message": "Chrome shortcut key conflict, kindly select a different key combination for your shortcut."
+  },
+   "options_value_default_reset": {
+    "message": "Option values set to default."
+  },
+   "options_value_set_success": {
+    "message": "Option value modified successfully."
+  },
+   "options_duplicate_values_fail": {
+    "message": "Duplicate shortcut key conflict, new shortcut option failed to set."
+  },
+    "options_chrome_notes_support": {
+    "message": "Online support:"
+  },
+  "options_chrome_notes_support_page": {
+    "message": "Auto Notes on web."
+  },
+   "options_reset_button_value": {
+    "message": "Reset settings to default"
+  },
+     "options_reset_button_title": {
+    "message": "Resets options to default settings."
+  },
+    "contents_delete_notes": {
+    "message": "Do you want to delete your notes?"
+  },
+    "contents_notes_not_deleted": {
+    "message": "Notes not deleted."
+  },
+    "options_current_locale": {
+    "message": "Current language:"
+  } ,
+"options_current_page_tittle": {
+    "message": "Auto Notes Options"
+  } ,
+"showBar_text": {
+    "message": "Show Bar"
+  },
+  "Edit_notes": {
+    "message": "Edit"
+  }, 
+  
+"hideBar_text": {
+    "message": "Hide Bar"
+  }, 
+"menuBar_notes": {
+    "message": "Current Notes"
+  }, 
+  "show_current_notes": {
+    "message": "Show Current Notes"
+  }, 
+  
+  "savednotes": {
+    "message": "Saved Notes"
+  }, 
+    "renamesave": {
+    "message": "Rename"
+  }, 
+    "removesave": {
+    "message": "Delete"
+  }, 
+    "makecurrent": {
+    "message": "Make Current"
+  }, 
+    "Create_Archive": {
+    "message": "Save"
+  }, 
+ "menuBar_notes_title": {
+    "message": "Your current notes."
+  }, 
+"menuBar_commands": {
+        "message": "Commands"
+  }, 
+"menuBar_commands_title": {
+        "message": "List of current available commands"
+  },
+"menuBar_faq": {
+    "message": "FAQ"
+  },
+"menuBar_faq_title": {
+    "message": "Auto Notes frequently asked questions"
+  },  
+"menuBar_features": {
+    "message": "Features"
+  },
+"menuBar_options": {
+    "message": "Options"
+  },
+  "edit_notes": {
+    "message": "Edit Notes"
+  },
+"menuBar_features_title": {
+    "message": "Auto Notes list of features"
+  }
+}
+

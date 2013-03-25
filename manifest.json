@@ -1,0 +1,76 @@
+{
+  "name" : "__MSG_chrome_extension_name__",
+  "version" : "1.2.0.11",
+  "manifest_version":2,
+  "description" : "Smart, efficient and most private note taking tool extension for chrome. One click sync to google docs and more..",
+ 
+  "background": { "scripts": 
+		["/js/jquery-1.7.1.js",
+			"/js/background_js_min.js",
+				"/js/chrome_ex_oauthsimple.js",
+					"/js/chrome_ex_oauth.js",
+						"/js/background_oAuth.js"] },
+						
+  "options_page": "options.html",
+  "default_locale": "en_US",
+  "browser_action": {
+      "default_title": "Fastest way to capture notes from chrome pages.",
+      "default_icon": "/images/autonotes-19.png",
+	  "default_popup": "showpopup.html"
+  },
+  "permissions": [
+    "tabs",
+	"notifications",
+	"contextMenus",
+	"http://*/*",
+	"https://*/*"
+   
+  ],
+
+  "content_scripts" : [
+    {
+      "matches" : [
+        "http://*/*",
+        "https://*/*"
+      ],
+	   "css": [
+	   "/css/themes/base/jquery.ui.theme.css",
+	   "/css/content_customize.css",
+	   "/css/jquery.jgrowl.css",
+	   "/css/messagebox.css",
+	   "/css/demos.css",
+	   "/css/themes/base/jquery.ui.all.css",
+	   "/css/uidemos.css",
+	   "/css/themes/base/jquery.ui.dialog.css",
+	   "/css/jquery.alerts.css",
+	   "/css/themes/base/jquery.ui.core.css"
+	   
+	   
+	   ],
+	   
+      "js" : ["/js/jquery-1.7.1.js","/js/jquery.jgrowl.js","/js/shortcuts.js",
+      	"/js/ui/jquery.ui.core.js",
+	 "/js/ui/jquery.ui.widget.js" ,
+	 "/js/ui/jquery.ui.mouse.js" ,
+	 "/js/ui/jquery.ui.draggable.js" ,
+	 "/js/ui/jquery.ui.position.js" ,
+	 "/js/ui/jquery.ui.resizable.js" ,
+	 "/js/ui/jquery.ui.dialog.js" ,
+	 "/js/browser.js",
+      "/js/contentscript_min.js"],
+	  
+      "run_at" : "document_idle"
+       
+    }
+  ],  
+    "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+  "plugins": [
+    { "path": "/npapi/npJuceBrowserPluginDemo.dll", "public": true }
+  
+  ],
+  "icons" : {
+  "19":"/images/autonotes-19.png",
+    "48" : "/images/autonotes-48.png",
+    "128" : "/images/autonotes-128.png"
+  }
+}

@@ -1,0 +1,223 @@
+﻿{
+"Auto_notes_title": {
+    "message": "Tự động Ghi chú"
+ },
+ "Auto_notes_note_saved_is_empty": {
+    "message": "Saved Ghi chú là trống rỗng."
+ },
+  "Auto_notes_open_saved_note": {
+    "message": "Hãy mở lưu ý lưu lại để loại bỏ."
+ },
+   "Auto_notes_is_removed": {
+    "message": "được lấy ra."
+ }, "Auto_notes_is_renamed": {
+    "message": "được đổi tên thành"
+ },
+    "Auto_notes_error_remove_it": {
+    "message": ":: không được chấp nhận."
+ },
+     "Auto_notes_current_note_is_save_and_this_is_current": {
+    "message": "ghi chú hiện tại của bạn hiện có saved.And này là ghi chú hiện tại của bạn."
+ },
+     "Auto_notes_saved": {
+    "message": "Chú ý lưu."
+ },
+"Option_extension_Your_notes_are_intact": {
+    "message": "ghi chú của bạn là còn nguyên vẹn."
+  },
+"Option_extension_Are_you_sure_to_delete_your_notes": {
+    "message": "Bạn có chắc chắn để xóa các ghi chú của bạn?"
+  },
+"Option_extension_All_rights_reserved": {
+    "message": "2012 quyền Tất cả dành riêng"
+  },
+  "Option_extension_option_page": {
+    "message": "Hiển thị tùy chọn"
+  },
+  "Option_extension_current_options": {
+    "message": "hiện tại tùy chọn cho việc tự động Ghi chú:"
+  },
+  "Option_extension_modify_option": {
+    "message": "Sửa đổi tùy chọn"
+  },
+  "Option_extension_youtube_demo": {
+    "message": "Youtube bản demo"
+  },
+   "Option_extension_show_notes_page": {
+    "message": "Ghi chú hiện tại"
+  },
+"Option_extension_Google": {
+    "message": "Google +"
+  },
+"Option_extension_Facebook": {
+    "message": "Facebook"
+  },
+"Option_extension_Twitter": {
+    "message": "Twitter"
+  },
+"Option_extension_Print_notes": {
+    "message": "In ghi chú"
+  },
+"Option_extension_Email_notes": {
+    "message": "Email ghi chú"
+  },
+ "ShowNotes_extension_your_notes_on": {
+    "message": "Chú ý hiện tại"
+  },
+  "ShowNotes_extension_no_notes": {
+    "message": "Không có ghi chú được tìm thấy, sử dụng các ghi chú bản sao lệnh để thêm ghi chú."
+  },
+"ShowNotes_extension_current_commands": {
+    "message": "lệnh để tự động Ghi chú"
+  },
+"ShowNotes_extension_faq_list": {
+    "message": "Những câu hỏi thường gặp"
+  },
+"ShowNotes_extension_options": {
+    "message": "Tự động Ghi chú Tùy chọn"
+  },
+  "ShowNotes_extension_options_current": {
+    "message": "hiện tại tùy chọn cho Ghi chú tự động"
+  },
+"ShowNotes_extension_features_list": {
+    "message": "tự động ghi chú danh sách các tính năng"
+  },
+ "Option_extension_Hide_Bullets": {
+    "message": "Ẩn Bullets"
+  },
+"Option_extension_Hide_URLs": {
+    "message": "Hide URL"
+  },
+"Option_extension_copy_on_select": {
+    "message": "bản sao: tự động"
+  },
+"Option_extension_copy_notes": {
+    "message": "Sao chép các ghi chú:"
+  },
+ "Option_extension_auto_enabled": {
+    "message": "bản sao: tự động"
+  },
+ "Option_extension_delete_notes": {
+    "message": "Xóa các ghi chú:"
+  },
+"Option_extension_show_notes": {
+    "message": "Hiển thị các ghi chú:"
+  },
+"Option_extension_show_options": {
+    "message": "Show Options"
+  },
+"Option_extension_select_colour": {
+    "message": "Chọn màu sắc của ghi chú:"
+  },
+"Option_extension_show_notes_in": {
+    "message": "Hiển thị các ghi chú:"
+  },
+  "Chrome_extension_name": {
+    "message": "Tự động Ghi chú"
+  },
+  "Chrome_extension_title": {
+    "message": "Tự động Ghi chú"
+  },
+  "Chrome_extension_description": {
+    "message": "tự động ghi chú cho Google Chrome."
+  },
+  "Contents_notes_added_notification": {
+    "message": "Lưu ý thêm ..."
+  },
+  "Options_chrome_restricted_key_alert": {
+    "message": "Chrome xung đột phím tắt, xin vui lòng chọn một sự kết hợp phím khác nhau cho shortcut của bạn."
+  },
+   "Options_value_default_reset": {
+    "message": "Lựa chọn giá trị thiết lập để mặc định."
+  },
+   "Options_value_set_success": {
+    "message": "Tùy chọn thay đổi giá trị thành công."
+  },
+   "Options_duplicate_values_fail": {
+    "message": "Bản sao xung đột phím tắt, phím tắt tùy chọn mới để thiết lập."
+  },
+    "Options_chrome_notes_support": {
+    "message": "Hỗ trợ trực tuyến:"
+  },
+  "Options_chrome_notes_support_page": {
+    "message": "Ghi chú tự động trên web."
+  },
+   "Options_reset_button_value": {
+    "message": "Thiết lập lại các thiết lập mặc định"
+  },
+     "Options_reset_button_title": {
+    "message": "Đặt lại các tùy chọn cài đặt mặc định"
+  },
+    "Contents_delete_notes": {
+    "message": "Bạn có muốn xóa các ghi chú của bạn?"
+  },
+    "Contents_notes_not_deleted": {
+    "message": "Ghi chú không bị xóa."
+  },
+    "Options_current_locale": {
+    "message": "ngôn ngữ hiện tại:"
+  },
+"Options_current_page_tittle": {
+    "message": "Tự động Ghi chú Tùy chọn"
+  },
+"ShowBar_text": {
+    "message": "Hiển thị Bar"
+  },
+  "Edit_notes": {
+    "message": "Chỉnh sửa"
+  },
+  
+"HideBar_text": {
+    "message": "Hide Bar"
+  },
+"MenuBar_notes": {
+    "message": "Lưu ý hiện tại"
+  },
+  "Show_current_notes": {
+    "message": "Hiển thị hiện tại Ghi chú"
+  },
+  
+  "Savednotes": {
+    "message": "Lưu Ghi chú"
+  },
+    "Renamesave": {
+    "message": "Đổi tên"
+  },
+    "Removesave": {
+    "message": "Xóa"
+  },
+    "Makecurrent": {
+    "message": "Làm cho hiện tại"
+  },
+    "Create_Archive": {
+    "message": "Lưu"
+  },
+ "MenuBar_notes_title": {
+    "message": "ghi chú hiện tại của bạn."
+  },
+"MenuBar_commands": {
+        "message": "Lệnh"
+  },
+"MenuBar_commands_title": {
+        "message": "Danh sách các lệnh hiện hành có sẵn"
+  },
+"MenuBar_faq": {
+    "message": "Hỏi đáp"
+  },
+"MenuBar_faq_title": {
+    "message": "Ghi chú Auto câu hỏi thường gặp"
+  },
+"MenuBar_features": {
+    "message": "Tính năng"
+  },
+"MenuBar_options": {
+    "message": "Tùy chọn"
+  },
+  "Edit_notes": {
+    "message": "Chỉnh sửa Ghi chú"
+  },
+"MenuBar_features_title": {
+    "message": "tự động Ghi chú danh sách các tính năng"
+  }
+}
+

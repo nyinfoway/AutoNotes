@@ -1,0 +1,223 @@
+﻿{
+"Auto_notes_title": {
+    "message": "Automatisk Notes"
+},
+ "Auto_notes_note_saved_is_empty": {
+    "message": "Gemte Notes er tom."
+},
+  "Auto_notes_open_saved_note": {
+    "message": "Vær venlig at åbne gemt note til at fjerne."
+},
+   "Auto_notes_is_removed": {
+    "message": "fjernes."
+}, "Auto_notes_is_renamed": {
+    "message": "er omdøbt."
+},
+    "Auto_notes_error_remove_it": {
+    "message": ":: ikke accepteret."
+},
+     "Auto_notes_current_note_is_save_and_this_is_current": {
+    "message": "Dine eksisterende nuværende noter saved.And Dette er din nuværende noter."
+},
+     "Auto_notes_saved": {
+    "message": "Bemærk Gemt."
+},
+"Option_extension_Your_notes_are_intact": {
+    "message": "Dine noter er intakte."
+ },
+"Option_extension_Are_you_sure_to_delete_your_notes": {
+    "message": "Er du sikker på at slette dine noter?"
+ },
+"Option_extension_All_rights_reserved": {
+    "message": "2012 Alle rettigheder forbeholdes"
+ },
+  "Option_extension_option_page": {
+    "message": "Vis valgmuligheder"
+ },
+  "Option_extension_current_options": {
+    "message": "Aktuelle indstillinger for Auto Notes:"
+ },
+  "Option_extension_modify_option": {
+    "message": "Rediger indstillinger"
+ },
+  "Option_extension_youtube_demo": {
+    "message": "Youtube demo"
+ },
+   "Option_extension_show_notes_page": {
+    "message": "Nuværende Notes"
+ },
+"Option_extension_Google": {
+    "message": "Google +"
+ },
+"Option_extension_Facebook": {
+    "message": "Facebook"
+ },
+"Option_extension_Twitter": {
+    "message": "Twitter"
+ },
+"Option_extension_Print_notes": {
+    "message": "udskrive noter"
+ },
+"Option_extension_Email_notes": {
+    "message": "E-mail noter"
+ },
+ "ShowNotes_extension_your_notes_on": {
+    "message": "Din aktuelle note"
+ },
+  "ShowNotes_extension_no_notes": {
+    "message": "Ingen notater fundet, skal du bruge kopiere noter kommando til at tilføje noter."
+ },
+"ShowNotes_extension_current_commands": {
+    "message": "Dine kommandoer til Auto Notes"
+ },
+"ShowNotes_extension_faq_list": {
+    "message": "Ofte stillede spørgsmål"
+ },
+"ShowNotes_extension_options": {
+    "message": "Automatisk Notes-indstillinger"
+ },
+  "ShowNotes_extension_options_current": {
+    "message": "Aktuelle muligheder for Auto Notes"
+ },
+"ShowNotes_extension_features_list": {
+    "message": "Auto noter liste over funktioner"
+ },
+ "Option_extension_Hide_Bullets": {
+    "message": "Skjul Bullets"
+ },
+"Option_extension_Hide_URLs": {
+    "message": "Skjul URL'er"
+ },
+"Option_extension_copy_on_select": {
+    "message": "Auto kopi:"
+ },
+"Option_extension_copy_notes": {
+    "message": "Kopier noter:"
+ },
+ "Option_extension_auto_enabled": {
+    "message": "Auto kopi:"
+ },
+ "Option_extension_delete_notes": {
+    "message": "Slet noter:"
+ },
+"Option_extension_show_notes": {
+    "message": "Vis noter:"
+ },
+"Option_extension_show_options": {
+    "message": "Vis indstillinger:"
+ },
+"Option_extension_select_colour": {
+    "message": "Vælg farve noter:"
+ },
+"Option_extension_show_notes_in": {
+    "message": "Vis noter i:"
+ },
+  "Chrome_extension_name": {
+    "message": "Automatisk Notes"
+ },
+  "Chrome_extension_title": {
+    "message": "Automatisk Notes"
+ },
+  "Chrome_extension_description": {
+    "message": "Automatiske noter til Google Chrome."
+ },
+  "Contents_notes_added_notification": {
+    "message": "Bemærk tilsat ..."
+ },
+  "Options_chrome_restricted_key_alert": {
+    "message": "Chrome genvejstasten konflikt, venligst vælge en anden tastekombination for din genvej."
+ },
+   "Options_value_default_reset": {
+    "message": "Mulighed værdier sat til standard."
+ },
+   "Options_value_set_success": {
+    "message": "Optionsværdi ændret med succes."
+ },
+   "Options_duplicate_values_fail": {
+    "message": "Dupliker genvejstasten konflikt, ny genvej mulighed for ikke at sætte."
+ },
+    "Options_chrome_notes_support": {
+    "message": "Online support"
+ },
+  "Options_chrome_notes_support_page": {
+    "message": "Auto Noter på web."
+ },
+   "Options_reset_button_value": {
+    "message": "Nulstil indstillinger til standard"
+ },
+     "Options_reset_button_title": {
+    "message": ". Nulstiller indstillingerne til standardindstillingerne"
+ },
+    "Contents_delete_notes": {
+    "message": "Vil du slette dine noter?"
+ },
+    "Contents_notes_not_deleted": {
+    "message": "Notes ikke slettet."
+ },
+    "Options_current_locale": {
+    "message": "Nuværende sprog:"
+ },
+"Options_current_page_tittle": {
+    "message": "Automatisk Notes-indstillinger"
+ },
+"ShowBar_text": {
+    "message": "Vis Bar"
+ },
+  "Edit_notes": {
+    "message": "Edit"
+ },
+  
+"HideBar_text": {
+    "message": "Hide Bar"
+ },
+"MenuBar_notes": {
+    "message": "Nuværende Note"
+ },
+  "Show_current_notes": {
+    "message": "Vis nuværende Notes"
+ },
+  
+  "Savednotes": {
+    "message": "Gemte Notes"
+ },
+    "Renamesave": {
+    "message": "Omdøb"
+ },
+    "Removesave": {
+    "message": "Slet"
+ },
+    "Makecurrent": {
+    "message": "Make Current"
+ },
+    "Create_Archive": {
+    "message": "Gem"
+ },
+ "MenuBar_notes_title": {
+    "message": "Dine aktuelle notater."
+ },
+"MenuBar_commands": {
+        "message": "kommandoer"
+ },
+"MenuBar_commands_title": {
+        "message": "Liste over nuværende tilgængelige kommandoer"
+ },
+"MenuBar_faq": {
+    "message": "FAQ"
+ },
+"MenuBar_faq_title": {
+    "message": "Auto Notes ofte stillede spørgsmål"
+ },
+"MenuBar_features": {
+    "message": "Funktioner"
+ },
+"MenuBar_options": {
+    "message": "Indstillinger"
+ },
+  "Edit_notes": {
+    "message": "Rediger noter"
+ },
+"MenuBar_features_title": {
+    "message": "Auto Notes liste over funktioner"
+ }
+}
+

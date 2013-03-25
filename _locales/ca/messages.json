@@ -1,0 +1,223 @@
+﻿{
+"Auto_notes_title": {
+    "message": "Notes Auto"
+ },
+ "Auto_notes_note_saved_is_empty": {
+    "message": "Notes guardat està buit."
+ },
+  "Auto_notes_open_saved_note": {
+    "message": "Si us plau, obriu nota guardada per eliminar."
+ },
+   "Auto_notes_is_removed": {
+    "message": "es retira."
+ }, "Auto_notes_is_renamed": {
+    "message": "es canvia el nom."
+ },
+    "Auto_notes_error_remove_it": {
+    "message": ":: no s'accepta."
+ },
+     "Auto_notes_current_note_is_save_and_this_is_current": {
+    "message": "Les notes actuals existents es saved.And es tracta de les notes actuals."
+ },
+     "Auto_notes_saved": {
+    "message": "Teniu en compte guardada."
+ },
+"Option_extension_Your_notes_are_intact": {
+    "message": "Les seves notes estan intactes."
+  },
+"Option_extension_Are_you_sure_to_delete_your_notes": {
+    "message": "Segur eliminar les teves notes?"
+  },
+"Option_extension_All_rights_reserved": {
+    "message": "2012 Tots els drets reservats"
+  },
+  "Option_extension_option_page": {
+    "message": "Mostra opcions"
+  },
+  "Option_extension_current_options": {
+    "message": "Les opcions actuals per la interlocutòria Notes:"
+  },
+  "Option_extension_modify_option": {
+    "message": "Modificar les opcions"
+  },
+  "Option_extension_youtube_demo": {
+    "message": "demostració de Youtube"
+  },
+   "Option_extension_show_notes_page": {
+    "message": "Notes d'actualitat"
+  },
+"Option_extension_Google": {
+    "message": "Google +"
+  },
+"Option_extension_Facebook": {
+    "message": "Facebook"
+  },
+"Option_extension_Twitter": {
+    "message": "Twitter"
+  },
+"Option_extension_Print_notes": {
+    "message": "les notes d'impressió"
+  },
+"Option_extension_Email_notes": {
+    "message": "les notes per correu electrònic"
+  },
+ "ShowNotes_extension_your_notes_on": {
+    "message": "La seva nota actual"
+  },
+  "ShowNotes_extension_no_notes": {
+    "message": "No s'ha trobat notes, anotacions de còpia de comandaments per afegir notes."
+  },
+"ShowNotes_extension_current_commands": {
+    "message": "Els seus comandaments per Notes Auto"
+  },
+"ShowNotes_extension_faq_list": {
+    "message": "Preguntes Freqüents"
+  },
+"ShowNotes_extension_options": {
+    "message": "Notes d'opcions d'auto"
+  },
+  "ShowNotes_extension_options_current": {
+    "message": "Les opcions actuals de notes Auto"
+  },
+"ShowNotes_extension_features_list": {
+    "message": "Auto llista de notes de característiques"
+  },
+ "Option_extension_Hide_Bullets": {
+    "message": "Amaga les bales"
+  },
+"Option_extension_Hide_URLs": {
+    "message": "Amaga les adreces URL"
+  },
+"Option_extension_copy_on_select": {
+    "message": "còpia automàtica"
+  },
+"Option_extension_copy_notes": {
+    "message": " Copiar Notes:"
+  },
+ "Option_extension_auto_enabled": {
+    "message": "còpia automàtica"
+  },
+ "Option_extension_delete_notes": {
+    "message": "Eliminar les notes:"
+  },
+"Option_extension_show_notes": {
+    "message": "Mostra les notes"
+  },
+"Option_extension_show_options": {
+    "message": "Mostra opcions"
+  },
+"Option_extension_select_colour": {
+    "message": "Seleccioneu el color de les notes:"
+  },
+"Option_extension_show_notes_in": {
+    "message": "Mostra les notes:"
+  },
+  "Chrome_extension_name": {
+    "message": "Auto Notes" 
+  },
+  "Chrome_extension_title": {
+    "message": "Auto Notes" 
+  },
+  "Chrome_extension_description": {
+    "message": "les notes automàtiques de Google Chrome."
+  },
+  "Contents_notes_added_notification": {
+    "message": "Nota afegida ..."
+  },
+  "Options_chrome_restricted_key_alert": {
+    "message": "Chrome conflicte clau d'accés directe, si us plau seleccioneu una combinació diferent clau per al seu accés directe."
+  },
+   "Options_value_default_reset": {
+    "message": "Els valors d'opció establert com a predeterminat."
+  },
+   "Options_value_set_success": {
+    "message": "El valor d'opció modificada amb èxit."
+  },
+   "Options_duplicate_values_fail": {
+    "message": "Duplicar els conflictes tecla d'accés, l'opció d'accés directe nou no ha pogut establir."
+  },
+    "Options_chrome_notes_support": {
+    "message": "El suport en línia:"
+  },
+  "Options_chrome_notes_support_page": {
+    "message": "Notes sobre la interlocutòria d'Internet."
+  },
+   "Options_reset_button_value": {
+    "message": "Restablir la configuració per defecte"
+  },
+     "Options_reset_button_title": {
+    "message": "Restaura opcions als valors predeterminats."
+  },
+    "Contents_delete_notes": {
+    "message": "Vols esborrar els teus notes?"
+  },
+    "Contents_notes_not_deleted": {
+    "message": "No notes eliminades."
+  },
+    "Options_current_locale": {
+    "message": "el llenguatge actual:"
+  },
+"Options_current_page_tittle": {
+    "message": "Notes d'opcions d'auto"
+  },
+"ShowBar_text": {
+    "message": "Mostra la barra"
+  },
+  "Edit_notes": {
+    "message": "Edita"
+  },
+  
+"HideBar_text": {
+    "message": "Oculta la barra"
+  },
+"MenuBar_notes": {
+    "message": "Teniu en compte corrent"
+  },
+  "Show_current_notes": {
+    "message": "Mostra Notes d'actualitat"
+  },
+  
+  "Savednotes": {
+    "message": "les notes guardades"
+  },
+    "Renamesave": {
+    "message": "Canviar nom"
+  },
+    "Removesave": {
+    "message": "Eliminar"
+  },
+    "Makecurrent": {
+    "message": "Fer actual"
+  },
+    "Create_Archive": {
+    "message": "Desa"
+  },
+ "MenuBar_notes_title": {
+    "message": "Les notes actuals."
+  },
+"MenuBar_commands": {
+        "message": "Comandes"
+  },
+"MenuBar_commands_title": {
+        "message": "Llista d'ordres disponibles actuals"
+  },
+"MenuBar_faq": {
+    "message": "Preguntes Freqüents"
+  },
+"MenuBar_faq_title": {
+    "message": "Notes Auto preguntes més freqüents"
+  },
+"MenuBar_features": {
+    "message": "Funcions"
+  },
+"MenuBar_options": {
+    "message": "Opcions"
+  },
+  "Edit_notes": {
+    "message": "Notes de redacció"
+  },
+"MenuBar_features_title": {
+    "message": "Auto llista de notes de característiques"
+  }
+}
+

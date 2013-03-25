@@ -1,0 +1,191 @@
+button{font-size: 12px;}
+body {
+	font-size: 62.5%;
+}
+
+#page-container {
+	width: 760px;
+	margin: auto;
+	background: #ffffff;
+}
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Arial, Helvetica, Verdana, Sans-serif;
+	font-size: 62.5%;
+	color: #666666;
+	background: gray;
+}
+
+ul{
+	list-style:square;
+}
+.li
+{
+	background:red;
+}
+
+#top-nav-left {
+	
+	height: 50px;
+	text-align:left;
+}
+
+#top-nav-right {
+	
+	height: 25px;
+	text-align:right;
+	margin-right: 20px;
+	padding-top: 5px;
+	
+}
+
+#main-nav {
+	background:#98AFff;
+	height: 25px;
+}
+
+#header {
+	height: 125px;
+	text-align:left;
+	background: white
+	            url(/images/Autonotes_760_150_header.png) no-repeat;
+}
+#top-menu-bar{
+	position:relative;
+	top: 20px;
+	left:660px;
+}
+#menu-list{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+
+#content {
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	line-height: 18px;
+}
+
+#content .padding {
+	padding: 25px;
+	text-align: justify;
+	text-justify: newspaper
+}
+
+
+#footer {
+	clear: both;
+	font-family: Tahoma, Arial, Helvetica, Sans-serif;
+	font-size: 10px;
+	color: #c9c9c9;
+	border-top: 1px solid #efefef;
+	padding: 13px 25px;
+	line-height: 18px;
+}
+
+#footer a:hover {
+	color: #db6d16;
+}
+
+#footer #altnav {
+	width: 350px;
+	float: right;
+	text-align: right;
+}
+
+
+.hidden {
+	display: none;
+}
+h1 {
+	margin: 0;
+	padding: 0;
+	float: right;
+	margin-top: 57px;
+	padding-right: 15px;
+}
+
+#content h2 {
+	margin: 0;
+	padding: 0;
+	padding-bottom: 15px;
+}
+
+#content p {
+	margin: 0;
+	padding: 0;
+	padding-bottom: 15px;
+}
+
+
+.floating-menu-formatting{
+	position:fixed;
+	float:right;
+	top: 100px;
+	background:#fff4c8;
+	border:1px solid #ffcc00;
+	border-radius:5px;
+	width:100px;
+	z-index:100;
+	padding:5px;
+}
+
+
+div.floating-menu a, div.floating-menu h3 {
+	display:block;
+	margin:0 0.5em;
+}
+
+a
+{
+    color:#11c;
+    text-decoration:none
+}
+a:hover
+{
+    text-decoration:underline
+}
+
+#title
+{
+    color:#333;
+    font-size:20px;
+    margin:10px 0 0;
+    text-align:center
+}
+#page_title
+{
+	color:#333;
+    font-size:20px;
+  	padding-bottom:15px;
+    text-align:center
+}
+#option-table
+{
+    font-size:14px;
+	margin-left:150px;
+	background:#fff4c8;
+	border:3px solid #ffcc00;
+	border-radius:5px;
+	padding:20px;
+	
+ }
+a:link{color:grey;}
+a:active{color:grey;}
+a:visited{color:grey;}
+a:hover{color:red;}
+
+.yui-skin-sam
+{
+	margin-left:30px;
+		padding:20px;
+}
+

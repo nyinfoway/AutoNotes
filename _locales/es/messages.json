@@ -1,0 +1,223 @@
+﻿{
+"Auto_notes_title": {
+    "message": "Notas Auto"
+ },
+ "Auto_notes_note_saved_is_empty": {
+    "message": "Notas guardado está vacío."
+ },
+  "Auto_notes_open_saved_note": {
+    "message": "Por favor, abra nota guardada para eliminar"
+ },
+   "Auto_notes_is_removed": {
+    "message": "se retira"
+ }, "Auto_notes_is_renamed": {
+    "message": "se cambia el nombre."
+ },
+    "Auto_notes_error_remove_it": {
+    "message": ":: no se acepta."
+ },
+     "Auto_notes_current_note_is_save_and_this_is_current": {
+    "message": "Las notas actuales existentes se saved.And se trata de las notas actuales."
+ },
+     "Auto_notes_saved": {
+    "message": "Tenga en cuenta guardada."
+ },
+"Option_extension_Your_notes_are_intact": {
+    "message": "Sus notas están intactas"
+  },
+"Option_extension_Are_you_sure_to_delete_your_notes": {
+    "message": "¿Está seguro de eliminar tus notas?"
+  },
+"Option_extension_All_rights_reserved": {
+    "message": "2012 Todos los derechos reservados"
+  },
+  "Option_extension_option_page": {
+    "message": "Mostrar opciones"
+  },
+  "Option_extension_current_options": {
+    "message": "Las opciones actuales para el Auto Notas:"
+  },
+  "Option_extension_modify_option": {
+    "message": "Modificar las opciones"
+  },
+  "Option_extension_youtube_demo": {
+    "message": "demostración de Youtube"
+  },
+   "Option_extension_show_notes_page": {
+    "message": "Notas de actualidad"
+  },
+"Option_extension_Google": {
+    "message": "Google +"
+  },
+"Option_extension_Facebook": {
+    "message": "Facebook"
+  },
+"Option_extension_Twitter": {
+    "message": "Twitter"
+  },
+"Option_extension_Print_notes": {
+    "message": "las notas de impresión"
+  },
+"Option_extension_Email_notes": {
+    "message": "las notas por correo electrónico"
+  },
+ "ShowNotes_extension_your_notes_on": {
+    "message": "Su nota actual"
+  },
+  "ShowNotes_extension_no_notes": {
+    "message": "No se encontró notas, anotaciones de copia de comandos para agregar notas."
+  },
+"ShowNotes_extension_current_commands": {
+    "message": "Sus comandos para Notas Auto"
+  },
+"ShowNotes_extension_faq_list": {
+    "message": "Preguntas Frecuentes"
+  },
+"ShowNotes_extension_options": {
+    "message": "Notas de opciones de auto"
+  },
+  "ShowNotes_extension_options_current": {
+    "message": "Las opciones actuales de Notas Auto"
+  },
+"ShowNotes_extension_features_list": {
+    "message": "Auto lista de notas de características"
+  },
+ "Option_extension_Hide_Bullets": {
+    "message": "Ocultar las balas"
+  },
+"Option_extension_Hide_URLs": {
+    "message": "Ocultar las direcciones URL"
+  },
+"Option_extension_copy_on_select": {
+    "message": "copia automática"
+  },
+"Option_extension_copy_notes": {
+    "message": "Notas: Copiar"
+  },
+ "Option_extension_auto_enabled": {
+    "message": "copia automática"
+  },
+ "Option_extension_delete_notes": {
+    "message": "Eliminar las notas:"
+  },
+"Option_extension_show_notes": {
+    "message": "Mostrar notas"
+  },
+"Option_extension_show_options": {
+    "message": "Mostrar opciones"
+  },
+"Option_extension_select_colour": {
+    "message": "Seleccione el color de las notas:"
+  },
+"Option_extension_show_notes_in": {
+    "message": "Mostrar notas:"
+  },
+  "Chrome_extension_name": {
+    "message": "Notas Auto"
+  },
+  "Chrome_extension_title": {
+    "message": "Notas Auto"
+  },
+  "Chrome_extension_description": {
+    "message": "las notas automáticas de Google Chrome"
+  },
+  "Contents_notes_added_notification": {
+    "message": "Nota añadida ..."
+  },
+  "Options_chrome_restricted_key_alert": {
+    "message": "Chrome conflicto clave de acceso directo, por favor seleccione una combinación diferente clave para su acceso directo."
+  },
+   "Options_value_default_reset": {
+    "message": "Los valores de opción establecido como predeterminado."
+  },
+   "Options_value_set_success": {
+    "message": "El valor de opción modificada con éxito."
+  },
+   "Options_duplicate_values_fail": {
+    "message": "Duplicar los conflictos tecla de acceso, la opción de acceso directo nuevo no ha podido establecer."
+  },
+    "Options_chrome_notes_support": {
+    "message": "El soporte en línea:"
+  },
+  "Options_chrome_notes_support_page": {
+    "message": "Notas sobre el Auto de Internet."
+  },
+   "Options_reset_button_value": {
+    "message": "Restablecer la configuración por defecto"
+  },
+     "Options_reset_button_title": {
+    "message": " Restaura opciones a los valores predeterminados"
+  },
+    "Contents_delete_notes": {
+    "message": "¿Quieres borrar sus notas?"
+  },
+    "Contents_notes_not_deleted": {
+    "message": "¿No notas eliminadas."
+  },
+    "Options_current_locale": {
+    "message": "el lenguaje actual:"
+  },
+"Options_current_page_tittle": {
+    "message": "Notas de opciones de auto"
+  },
+"ShowBar_text": {
+    "message": "Mostrar barra"
+  },
+  "Edit_notes": {
+    "message": "Editar"
+  },
+  
+"HideBar_text": {
+    "message": "Ocultar barra"
+  },
+"MenuBar_notes": {
+    "message": "Tenga en cuenta corriente"
+  },
+  "Show_current_notes": {
+    "message": "Mostrar Notas de actualidad"
+  },
+  
+  "Savednotes": {
+    "message": "las notas guardadas"
+  },
+    "Renamesave": {
+    "message": "Cambiar nombre"
+  },
+    "Removesave": {
+    "message": "Eliminar"
+  },
+    "Makecurrent": {
+    "message": "Hacer actual"
+  },
+    "Create_Archive": {
+    "message": "Guardar"
+  },
+ "MenuBar_notes_title": {
+    "message": "Las notas actuales"
+  },
+"MenuBar_commands": {
+        "message": "Comandos"
+  },
+"MenuBar_commands_title": {
+        "message": "Lista de comandos disponibles actuales"
+  },
+"MenuBar_faq": {
+    "message": "Preguntas Frecuentes"
+  },
+"MenuBar_faq_title": {
+    "message": "Notas Auto preguntas más frecuentes"
+  },
+"MenuBar_features": {
+    "message": "Funciones"
+  },
+"MenuBar_options": {
+    "message": "Opciones"
+  },
+  "Edit_notes": {
+    "message": "Notas de redacción"
+  },
+"MenuBar_features_title": {
+    "message": "Auto lista de notas de características"
+  }
+}
+

@@ -1,0 +1,223 @@
+﻿{
+"Auto_notes_title": {
+    "message": "Auto Poznámky"
+},
+ "Auto_notes_note_saved_is_empty": {
+    "message": "Uložené Notes je prázdný."
+},
+  "Auto_notes_open_saved_note": {
+    "message": "Prosím, otevřete uložený na vědomí odstranit."
+},
+   "Auto_notes_is_removed": {
+    "message": "je odstranit."
+}, "Auto_notes_is_renamed": {
+    "message": "je přejmenována."
+},
+    "Auto_notes_error_remove_it": {
+    "message": ":: nepřijala."
+},
+     "Auto_notes_current_note_is_save_and_this_is_current": {
+    "message": "Vaše stávající Aktuální poznámky je saved.And to je vaše aktuální poznámky."
+},
+     "Auto_notes_saved": {
+    "message": "Všimněte si, zachráněn."
+},
+"Option_extension_Your_notes_are_intact": {
+    "message": "Vaše poznámky jsou neporušené."
+ },
+"Option_extension_Are_you_sure_to_delete_your_notes": {
+    "message": "Opravdu chcete mazat své poznámky?"
+ },
+"Option_extension_All_rights_reserved": {
+    "message": "2012 Všechna práva vyhrazena"
+ },
+  "Option_extension_option_page": {
+    "message": "Zobrazit možnosti"
+ },
+  "Option_extension_current_options": {
+    "message": "Současné možnosti pro Auto Poznámky:"
+ },
+  "Option_extension_modify_option": {
+    "message": "Upravit možnosti"
+ },
+  "Option_extension_youtube_demo": {
+    "message": "Youtube demo"
+ },
+   "Option_extension_show_notes_page": {
+    "message": "Aktuální Poznámky"
+ },
+"Option_extension_Google": {
+    "message": "+ Google"
+ },
+"Option_extension_Facebook": {
+    "message": "Facebook"
+ },
+"Option_extension_Twitter": {
+    "message": "Twitter"
+ },
+"Option_extension_Print_notes": {
+    "message": "bere na vědomí"
+ },
+"Option_extension_Email_notes": {
+    "message": "Email poznamenává"
+ },
+ "ShowNotes_extension_your_notes_on": {
+    "message": "Vaše aktuální poznámka"
+ },
+  "ShowNotes_extension_no_notes": {
+    "message": "Žádné poznámky nalezena, zadáním příkazu kopírování poznámek přidávat poznámky."
+ },
+"ShowNotes_extension_current_commands": {
+    "message": "Vaše příkazy pro Auto Notes"
+ },
+"ShowNotes_extension_faq_list": {
+    "message": "Časté dotazy"
+ },
+"ShowNotes_extension_options": {
+    "message": "Auto Poznámky Možnosti"
+ },
+  "ShowNotes_extension_options_current": {
+    "message": "Současné možnosti pro Auto Notes"
+ },
+"ShowNotes_extension_features_list": {
+    "message": "Auto bere na vědomí, seznam funkcí"
+ },
+ "Option_extension_Hide_Bullets": {
+    "message": "Z Bullets"
+ },
+"Option_extension_Hide_URLs": {
+    "message": "Skrýt URL"
+ },
+"Option_extension_copy_on_select": {
+    "message": "Auto kopie:"
+ },
+"Option_extension_copy_notes": {
+    "message": "Kopírovat poznamenává:"
+ },
+ "Option_extension_auto_enabled": {
+    "message": "Auto kopie:"
+ },
+ "Option_extension_delete_notes": {
+    "message": "Odstranit poznámky:"
+ },
+"Option_extension_show_notes": {
+    "message": "Zobrazit poznámky:"
+ },
+"Option_extension_show_options": {
+    "message": "Zobrazit možnosti:"
+ },
+"Option_extension_select_colour": {
+    "message": "Vybrat barvu poznámek:"
+ },
+"Option_extension_show_notes_in": {
+    "message": "Zobrazit poznámky:"
+ },
+  "Chrome_extension_name": {
+    "message": "Auto Poznámky"
+ },
+  "Chrome_extension_title": {
+    "message": "Auto Poznámky"
+ },
+  "Chrome_extension_description": {
+    "message": "Automatické poznámky pro Google Chrome."
+ },
+  "Contents_notes_added_notification": {
+    "message": "Note added ..."
+ },
+  "Options_chrome_restricted_key_alert": {
+    "message": "Chrome klávesová zkratka konflikt, prosím vyberte jinou kombinaci kláves pro váš zástupce."
+ },
+   "Options_value_default_reset": {
+    "message": "Hodnoty možností nastavení na výchozí hodnoty."
+ },
+   "Options_value_set_success": {
+    "message": "Hodnota opce úspěšně upraveno."
+ },
+   "Options_duplicate_values_fail": {
+    "message": "Duplicitní klávesových zkratek konflikt, Nový zástupce možnost se nepodařilo nastavit."
+ },
+    "Options_chrome_notes_support": {
+    "message": "Podpora online"
+ },
+  "Options_chrome_notes_support_page": {
+    "message": "Auto Poznámky k webu."
+ },
+   "Options_reset_button_value": {
+    "message": "Obnovit výchozí nastavení"
+ },
+     "Options_reset_button_title": {
+    "message": ". Obnovení volby na výchozí nastavení"
+ },
+    "Contents_delete_notes": {
+    "message": "Přejete si odstranit své poznámky?"
+ },
+    "Contents_notes_not_deleted": {
+    "message": "konstatuje, že není odstraněn."
+ },
+    "Options_current_locale": {
+    "message": "Aktuální jazyk:"
+ },
+"Options_current_page_tittle": {
+    "message": "Auto Poznámky Možnosti"
+ },
+"ShowBar_text": {
+    "message": "Zobrazit panel"
+ },
+  "Edit_notes": {
+    "message": "Edit"
+ },
+  
+"HideBar_text": {
+    "message": "Skrýt panel"
+ },
+"MenuBar_notes": {
+    "message": "Aktuální poznámka"
+ },
+  "Show_current_notes": {
+    "message": "Zobrazit Aktuální Poznámky"
+ },
+  
+  "Savednotes": {
+    "message": "Uložené Poznámky"
+ },
+    "Renamesave": {
+    "message": "Přejmenovat"
+ },
+    "Removesave": {
+    "message": "Odstranit"
+ },
+    "Makecurrent": {
+    "message": "Make Current"
+ },
+    "Create_Archive": {
+    "message": "Uložit"
+ },
+ "MenuBar_notes_title": {
+    "message": "Vaše současné poznámky."
+ },
+"MenuBar_commands": {
+        "message": "Příkazy"
+ },
+"MenuBar_commands_title": {
+        "message": "Seznam aktuálních dostupných příkazů"
+ },
+"MenuBar_faq": {
+    "message": "Časté dotazy"
+ },
+"MenuBar_faq_title": {
+    "message": "Auto bere na vědomí, často kladené dotazy"
+ },
+"MenuBar_features": {
+    "message": "Vlastnosti"
+ },
+"MenuBar_options": {
+    "message": "Možnosti"
+ },
+  "Edit_notes": {
+    "message": "Edit Poznámky"
+ },
+"MenuBar_features_title": {
+    "message": "Auto Poznámky seznam funkcí"
+ }
+}
+

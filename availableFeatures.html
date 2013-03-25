@@ -1,0 +1,225 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8"/>
+<title>Auto Notes Features</title>
+<meta http-equiv="Content-Language" content="en-us"/>
+<meta http-equiv="imagetoolbar" content="no"/>
+<meta name="MSSmartTagsPreventParsing" content="true"/>
+<meta name="description" content="Your notes captured by Auto notes."/>
+<meta name="keywords" content="Auto notes extensions in chrome, Capture notes automatically in Chrome,"/>
+<meta name="author" content="NYInfoway LLC."/>
+<script src="/js/jquery-1.7.1.js"></script>
+<script src="/js/jquery.jgrowl.js"></script>
+<script src="/js/home.js"></script>
+<link rel="icon" href="/images/app-nayana.ico" type="image/x-icon" />
+<script src="/js/home.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/jquery.jgrowl.css"/>
+<style type='text/css'>
+  
+  body1       { font-family: arial; color: black; background: white }
+  .CodeBlock1 { color: black; background-color: #dfdfdf; margin-left: 30px; margin-right: 30px; padding: 5pt }
+  .CodeBlock small tt { font-size: small }
+  .question  { color: black; background-color: gold }
+  .toc  {list-style-type: none;}
+  .toclist   { color: black; cursor: default; font-size: x-medium; font-variant: small-caps; font-family: cursive;
+               background-color: #ffff00; border: solid #e0e000 1px;  }
+  .New       { color: black; cursor: default; font-size: x-small; font-variant: small-caps; font-family: cursive;
+               background-color: #00ff00; border: solid #00d000 1px; }
+  ul1         { margin-bottom: 1px; margin-top: 1px }
+  ol1 1        { margin-bottom: 1px; margin-top: 1px }
+  li1         { margin-bottom: 4px; margin-top: 4px }
+ 
+</style>
+<link rel="stylesheet" type="text/css" href="/css/showNotes.css"/>
+	<link rel="stylesheet" href="/css/demos.css">
+
+</head>
+<body>
+<div id="page-container">
+	<div id="main-nav">
+		<dl class="hidden">
+			<dt id="about"><a href="#">About</a></dt>
+			<dt id="services"><a href="#">Services</a></dt>
+			<dt id="portfolio"><a href="#">Portfolio</a></dt>
+			<dt id="contact"><a href="#">Contact Us</a></dt>
+		</dl>
+		<div id="top-nav-right">
+				  ©2012 All rights reserved,<a href='http://nyinfoway.com/' target='_blank'>NY Infoway LLC. </a> 
+				<!--a target="_blank" href="http://www.nyinfoway.com/">NYInfoway LLC.</a-->
+			</div>
+	</div>
+	<div id="header">
+	
+	<div id="top-menu-bar">
+			
+			<strong>
+			<ul id="menu-list" style="position: absolute;">
+
+			<li><a href="showNotes.html" >Current Note</a></li>
+					<!--<li><a href="autoeditor.html" ><script type="text/javascript">document.write(chrome.i18n.getMessage("Edit_notes"));</script></a></li>
+-->
+					<li><a href="options.html"><b>Options</b></a></li>
+
+					<!--li><a href="currentCommands.html"><script type="text/javascript">document.write(chrome.i18n.getMessage("menuBar_Commands"));</script>				</a></li-->
+					<li><a href="autoNotesFAQ.html"><b>FAQ</b></a></li>
+					<li><a href="availableFeatures.html"><b>Features</b></a></li>
+
+
+				 
+
+					<li>
+						Show Bar
+						<input id="showFormatbar" type="checkbox" name="showFormatBarCheckBx" >
+					</li>
+				</ul>
+			</strong>
+			
+		</div>
+		<br><br>
+		<div align="right" id="google_translate_element"></div>
+	</div><div style="margin-left: 2%;">
+	<script type="text/javascript"><!--
+				google_ad_client = "ca-pub-9395854779674755";
+				/* riot of colors */
+				google_ad_slot = "0545546468";
+				google_ad_width = 728;
+				google_ad_height = 90;
+				
+				</script>
+				<script type="text/javascript"
+				src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+				</script>
+				</div>
+	<div id="sidebar-b">
+		<div class="padding">
+		 	
+		</div>
+	</div>
+	<div id="sidebar-a">
+		<div class="padding">
+		</div>
+	</div>
+	
+	<div id="content" style="font-size: 13px;">
+	
+		<div id="page_title">
+		
+			<script>
+				document.write(chrome.i18n.getMessage("showNotes_extension_features_list"));
+			</script>
+		</div>
+		
+		<h1>&nbsp;
+	</h1>
+	<div id="tableOfContents">
+			<ul id="toc">
+				<li><a href="#q1" class="toclist">Fastest way to capture notes</a></li>
+				<li><a href="#q2" class="toclist">Check out your notes by pressing ‘ALT+ S’ from any web page</a></li>
+				<li><a href="#q3" class="toclist">Archive notes and start afresh.</a></li>
+				<li><a href="#q4" class="toclist">Keep your notes locally for as long as you want, notes are saved in a permanent database locally on your computer.
+</a></li>
+                <li><a href="#q5" class="toclist">Rich text editor to edit notes and add contents.</a></li>
+				<li><a href="#q6" class="toclist">Email, Print or quickly format your notes from notes page.</a></li>
+				<li><a href="#q7" class="toclist">Available in various international language of your choice.</a></li>
+				<li><a href="#q8" class="toclist">Quick demo at YouTube:http://www.youtube.com/watch?v=dXqO84-MlHs.</a></li>
+			</ul>
+		</div>
+		<hr/>
+<p align="center" id="q1" >
+	</p>
+<ul>
+	<li class="question" >
+		Fastest way to capture notes
+		<ul>
+			<li>
+				Select text and press &lsquo;ALT+ A&rsquo; (Default) to capture notes.</li>
+			<li>
+				Automatic capture of notes on selection.
+				<ul>
+					<li >
+						Enable auto capture in Options page by checking auto capture check box.</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	
+	<li id="q2"  class="question">
+		Check out your notes by pressing &lsquo;ALT+ S&rsquo; from any web page.</li>
+</ul>
+<p style="margin-left:.5in;">&nbsp;
+	</p>
+<p>
+	<img height="400" src="images/demoimage/8-8.png" width="640" /></p>
+	<hr>
+<ul>
+	<li id="q3" class="question">
+		Archive notes and start afresh.</li>
+
+		<img height="400" src="images/demoimage/9-9.png" width="990" />
+	<p></p><hr>
+	<li id="q4" class="question">	Keep your notes locally for as long as you want, notes are saved in a permanent database locally on your computer.</li>
+	<img height="202" src="images/demoimage/ScreenHunter_23 Jan. 31 20.40.jpg" width="1021" />
+	<hr>
+	<li  id="q5" class="question">
+		Rich text editor to edit notes and add contents.</li>
+
+		<img height="233" src="images/demoimage/ScreenHunter_24 Jan. 31 20.41.jpg" width="1043" />
+		<hr>
+	<p></p>
+	<li  id="q6" class="question">	Email, Print or quickly format your notes from notes page.</li>
+</ul>
+<ul>
+	
+    <p style="margin-left:.25in;"><img align="center" height="271" hspace="12" src="images/image008.jpg" width="114" /></p>
+<hr>
+<li id="q7" class="question">
+		Available in various international language of your choice.</li>
+	<li  id="q8" class="question">
+		Quick demo at YouTube:<a href="http://www.youtube.com/watch?v=dXqO84-MlHs" target="_blank">http://www.youtube.com/watch?v=dXqO84-MlHs</a>.</li>
+</ul>
+<div style="margin-left: 2%;">
+<script type="text/javascript"><!--
+				google_ad_client = "ca-pub-9395854779674755";
+				/* riot of colors */
+				google_ad_slot = "0545546468";
+				google_ad_width = 728;
+				google_ad_height = 90;
+				
+				</script>
+				<script type="text/javascript"
+				src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+				</script>
+				</div>
+	</div><!-- SMARTADDON BEGIN -->
+<div  style="margin-left: 45%;">
+<script type="text/javascript">
+(function() {
+var s=document.createElement('script');s.type='text/javascript';s.async = true;
+s.src='http://s1.smartaddon.com/share_addon.js';
+var j =document.getElementsByTagName('script')[0];j.parentNode.insertBefore(s,j);
+})();
+</script>
+
+<a href="http://www.smartaddon.com/?share" title="Tell a Friend" onclick="return sa_tellafriend('https://chrome.google.com/webstore/detail/jmbohdjfjkakoohodeadhbmikieolpkb')"><img alt="Tell a Friend" src="http://s1.smartaddon.com/s10.png" border="0" /></a>
+</div>
+<!-- SMARTADDON END -->
+	<div id="footer">
+	</div>
+	</body>
+	<script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en'
+  }, 'google_translate_element');
+}
+</script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script type="text/javascript">
+  var uvOptions = {};
+  (function() {
+    var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
+    uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/7hSxBWQm3DVacWhE8LjoQ.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
+  })();
+</script>
+	</html>

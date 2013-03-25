@@ -1,0 +1,223 @@
+﻿{
+"Auto_notes_title": {
+    "message": "Auto Note"
+ },
+ "Auto_notes_note_saved_is_empty": {
+    "message": "Note salvate è vuoto."
+ },
+  "Auto_notes_open_saved_note": {
+    "message": "Si prega di aprire note salvate da rimuovere."
+ },
+   "Auto_notes_is_removed": {
+    "message": "viene rimosso"
+ }, "Auto_notes_is_renamed": {
+    "message": "viene rinominata"
+ },
+    "Auto_notes_error_remove_it": {
+    "message": ":: Non si accettano"
+ },
+     "Auto_notes_current_note_is_save_and_this_is_current": {
+    "message": "Le tue note esistenti correnti è saved.And questo è le note attuali."
+ },
+     "Auto_notes_saved": {
+    "message": "Nota salvati"
+ },
+"Option_extension_Your_notes_are_intact": {
+    "message": "Le tue note sono intatte."
+  },
+"Option_extension_Are_you_sure_to_delete_your_notes": {
+    "message": "Sei sicuro di voler cancellare i tuoi appunti?"
+  },
+"Option_extension_All_rights_reserved": {
+    "message": "2012 Tutti i diritti riservati"
+  },
+  "Option_extension_option_page": {
+    "message": "Mostra opzioni"
+  },
+  "Option_extension_current_options": {
+    "message": "Le opzioni correnti per Notes Auto:"
+  },
+  "Option_extension_modify_option": {
+    "message": "Modifica Opzioni"
+  },
+  "Option_extension_youtube_demo": {
+    "message": "demo Youtube"
+  },
+   "Option_extension_show_notes_page": {
+    "message": "Note correnti"
+  },
+"Option_extension_Google": {
+    "message": "Google +"
+  },
+"Option_extension_Facebook": {
+    "message": "Facebook"
+  },
+"Option_extension_Twitter": {
+    "message": "Twitter"
+  },
+"Option_extension_Print_notes": {
+    "message": "stampare le note"
+  },
+"Option_extension_Email_notes": {
+    "message": "Note e-mail"
+  },
+ "ShowNotes_extension_your_notes_on": {
+    "message": "Your Current Notes"
+  },
+  "ShowNotes_extension_no_notes": {
+    "message": "Nessuna nota trovato, usare le note copia comando per aggiungere note"
+  },
+"ShowNotes_extension_current_commands": {
+    "message": "i comandi per Notes Auto"
+  },
+"ShowNotes_extension_faq_list": {
+    "message": "Domande frequenti"
+  },
+"ShowNotes_extension_options": {
+    "message": "Note Auto Options"
+  },
+  "ShowNotes_extension_options_current": {
+    "message": "Le opzioni correnti per Notes Auto"
+  },
+"ShowNotes_extension_features_list": {
+    "message": "lista Auto note di funzionalità"
+  },
+ "Option_extension_Hide_Bullets": {
+    "message": "Nascondi Bullets"
+  },
+"Option_extension_Hide_URLs": {
+    "message": "Nascondi URL"
+  },
+"Option_extension_copy_on_select": {
+    "message": "copy Auto:"
+  },
+"Option_extension_copy_notes": {
+    "message": "note copia:"
+  },
+ "Option_extension_auto_enabled": {
+    "message": "copy Auto:"
+  },
+ "Option_extension_delete_notes": {
+    "message": "Elimina note:"
+  },
+"Option_extension_show_notes": {
+    "message": "Note: Mostra"
+  },
+"Option_extension_show_options": {
+    "message": "Mostra opzioni:"
+  },
+"Option_extension_select_colour": {
+    "message": "Scegli il colore delle note:"
+  },
+"Option_extension_show_notes_in": {
+    "message": "Mostra note in:"
+  },
+  "Chrome_extension_name": {
+    "message": "Auto Note"
+  },
+  "Chrome_extension_title": {
+    "message": "Auto  Note"
+  },
+  "Chrome_extension_description": {
+    "message": "Note automatici per Google Chrome"
+  },
+  "Contents_notes_added_notification": {
+    "message": "Nota aggiunto ..."
+  },
+  "Options_chrome_restricted_key_alert": {
+    "message": "conflitto Chrome tasto di scelta rapida, vi preghiamo di selezionare una combinazione di tasti diversa per il collegamento."
+  },
+   "Options_value_default_reset": {
+    "message": "I valori opzione impostata di default."
+  },
+   "Options_value_set_success": {
+    "message": "Il valore dell'opzione modificato con successo."
+  },
+   "Options_duplicate_values_fail": {
+    "message": "Duplica conflitto tasto di scelta rapida, l'opzione nuovo collegamento non è riuscito a impostare."
+  },
+    "Options_chrome_notes_support": {
+    "message": "Supporto Online:"
+  },
+  "Options_chrome_notes_support_page": {
+    "message": "Auto Note sul web."
+  },
+   "Options_reset_button_value": {
+    "message": "Ripristinare le impostazioni di default"
+  },
+     "Options_reset_button_title": {
+    "message": " Opzioni ripristini le impostazioni predefinite"
+  },
+    "Contents_delete_notes": {
+    "message": "Non si desidera eliminare le note?"
+  },
+    "Contents_notes_not_deleted": {
+    "message": "Non Notes cancellato."
+  },
+    "Options_current_locale": {
+    "message": "Lingua corrente:"
+  },
+"Options_current_page_tittle": {
+    "message": "Note Auto Options"
+  },
+"ShowBar_text": {
+    "message": "Mostra Bar"
+  },
+  "Edit_notes": {
+    "message": "Edit"
+  },
+  
+"HideBar_text": {
+    "message": "Nascondi Bar"
+  },
+"MenuBar_notes": {
+    "message": "Nota corrente"
+  },
+  "Show_current_notes": {
+    "message": "Mostrami Note correnti"
+  },
+  
+  "Savednotes": {
+    "message": "Note salvate"
+  },
+    "Renamesave": {
+    "message": "Rinomina"
+  },
+    "Removesave": {
+    "message": "Elimina"
+  },
+    "Makecurrent": {
+    "message": "Rendi corrente"
+  },
+    "Create_Archive": {
+    "message": "Salva"
+  },
+ "MenuBar_notes_title": {
+    "message": "Le Sue note attuali."
+  },
+"MenuBar_commands": {
+        "message": "Comandi"
+  },
+"MenuBar_commands_title": {
+        "message": "Elenco degli attuali comandi disponibili"
+  },
+"MenuBar_faq": {
+    "message": "FAQ"
+  },
+"MenuBar_faq_title": {
+    "message": "Note Auto domande frequenti"
+  },
+"MenuBar_features": {
+    "message": "Funzioni"
+  },
+"MenuBar_options": {
+    "message": "Opzioni"
+  },
+  "Edit_notes": {
+    "message": "Modifica Notes"
+  },
+"MenuBar_features_title": {
+    "message": "lista Auto Note di funzionalità"
+  }
+}
+

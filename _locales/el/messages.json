@@ -1,0 +1,223 @@
+﻿{
+"Auto_notes_title": {
+    "message": "Αυτόματη Σημειώσεις"
+ },
+ "Auto_notes_note_saved_is_empty": {
+    "message": "Αποθηκευμένες σημειώσεις είναι άδειο."
+ },
+  "Auto_notes_open_saved_note": {
+    "message": "Παρακαλώ σημειώστε ανοίξετε αποθηκευμένες να καταργήσετε."
+ },
+   "Auto_notes_is_removed": {
+    "message": "αφαιρείται"
+ }, "Auto_notes_is_renamed": {
+    "message": "μετονομάζεται σε"
+ },
+    "Auto_notes_error_remove_it": {
+    "message": ":: που δεν έγιναν δεκτές."
+ },
+     "Auto_notes_current_note_is_save_and_this_is_current": {
+    "message": "υφιστάμενη σημερινή σημειώσεις σας saved.And αυτή είναι η τρέχουσα σημειώσεις σας."
+ },
+     "Auto_notes_saved": {
+    "message": "Σημείωση σωθούμε»."
+ },
+"Option_extension_Your_notes_are_intact": {
+    "message": "Οι σημειώσεις σας είναι ανέπαφο."
+  },
+"Option_extension_Are_you_sure_to_delete_your_notes": {
+    "message": "Είστε σίγουρος να διαγράψετε τις σημειώσεις σας;"
+  },
+"Option_extension_All_rights_reserved": {
+    "message": "2012 Όλα τα δικαιώματα"
+  },
+  "Option_extension_option_page": {
+    "message": "Εμφάνιση επιλογών"
+  },
+  "Option_extension_current_options": {
+    "message": "Οι τρέχουσες επιλογές για αυτόματη Σημειώσεις:"
+  },
+  "Option_extension_modify_option": {
+    "message": "Τροποποίηση επιλογών"
+  },
+  "Option_extension_youtube_demo": {
+    "message": "demo Youtube"
+  },
+   "Option_extension_show_notes_page": {
+    "message": "Τρέχουσες Σημειώσεις"
+  },
+"Option_extension_Google": {
+    "message": "+ Google"
+  },
+"Option_extension_Facebook": {
+    "message": "Facebook"
+  },
+"Option_extension_Twitter": {
+    "message": "Twitter"
+  },
+"Option_extension_Print_notes": {
+    "message": "σημειώνει Εκτύπωση"
+  },
+"Option_extension_Email_notes": {
+    "message": "Αποστολή σημειώσεις"
+  },
+ "ShowNotes_extension_your_notes_on": {
+    "message": "Τρέχουσες Σημείωση σου"
+  },
+  "ShowNotes_extension_no_notes": {
+    "message": "Δεν υπάρχουν σημειώσεις που βρέθηκαν, χρησιμοποιήστε σημειώσεις αντίγραφο εντολή για να προσθέσετε σημειώσεις."
+  },
+"ShowNotes_extension_current_commands": {
+    "message": "εντολές σας για σημειώσεις Auto"
+  },
+"ShowNotes_extension_faq_list": {
+    "message": "Συχνές Ερωτήσεις"
+  },
+"ShowNotes_extension_options": {
+    "message": "Σημειώσεις Auto Επιλογές"
+  },
+  "ShowNotes_extension_options_current": {
+    "message": "Οι τρέχουσες επιλογές για σημειώσεις Auto"
+  },
+"ShowNotes_extension_features_list": {
+    "message": "Αυτόματη λίστα σημειώνει χαρακτηριστικά"
+  },
+ "Option_extension_Hide_Bullets": {
+    "message": "Απόκρυψη Bullets"
+  },
+"Option_extension_Hide_URLs": {
+    "message": "Απόκρυψη διευθύνσεων URL"
+  },
+"Option_extension_copy_on_select": {
+    "message": "Αυτόματη αντιγραφή:"
+  },
+"Option_extension_copy_notes": {
+    "message": "Αντιγραφή σημειώνει:"
+  },
+ "Option_extension_auto_enabled": {
+    "message": "Αυτόματη αντιγραφή:"
+  },
+ "Option_extension_delete_notes": {
+    "message": "Διαγραφή σημειώνει:"
+  },
+"Option_extension_show_notes": {
+    "message": "Εμφάνιση σημειώνει:"
+  },
+"Option_extension_show_options": {
+    "message": "Εμφάνιση επιλογών:"
+  },
+"Option_extension_select_colour": {
+    "message": "Επιλέξτε το χρώμα του σημειώνει:"
+  },
+"Option_extension_show_notes_in": {
+    "message": "Εμφάνιση σημειώνει:"
+  },
+  "Chrome_extension_name": {
+    "message": "Αυτόματη Σημειώσεις"
+  },
+  "Chrome_extension_title": {
+    "message": "Αυτόματη Σημειώσεις"
+  },
+  "Chrome_extension_description": {
+    "message": "Αυτόματη σημειώσεις για το Google Chrome."
+  },
+  "Contents_notes_added_notification": {
+    "message": "Σημείωση προσθήκη ..."
+  },
+  "Options_chrome_restricted_key_alert": {
+    "message": "Chrome σύγκρουση πλήκτρο συντόμευσης, επιλέξτε την καλοσύνη ένα διαφορετικό συνδυασμό πλήκτρων συντόμευσης για σας."
+  },
+   "Options_value_default_reset": {
+    "message": "Επιλογή τιμές οριστεί ως προεπιλογή."
+  },
+   "Options_value_set_success": {
+    "message": "αξία του δικαιώματος προαίρεσης φορά με επιτυχία."
+  },
+   "Options_duplicate_values_fail": {
+    "message": "Αντιγραφή συντόμευσης κλειδί σύγκρουση, νέα επιλογή συντόμευσης απέτυχε να θέσει."
+  },
+    "Options_chrome_notes_support": {
+    "message": "Ηλεκτρονική υποστήριξη:"
+  },
+  "Options_chrome_notes_support_page": {
+    "message": "Αυτόματη Σημειώσεις στην ιστοσελίδα."
+  },
+   "Options_reset_button_value": {
+    "message": "Επαναφορά στις προεπιλεγμένες ρυθμίσεις"
+  },
+     "Options_reset_button_title": {
+    "message": " Επαναφέρει τις επιλογές στις προεπιλεγμένες ρυθμίσεις"
+  },
+    "Contents_delete_notes": {
+    "message": "Θέλετε να διαγράψετε τις σημειώσεις σας;"
+  },
+    "Contents_notes_not_deleted": {
+    "message": "Σημειώσεις δεν διαγράφονται."
+  },
+    "Options_current_locale": {
+    "message": "Η τρέχουσα γλώσσα:"
+  },
+"Options_current_page_tittle": {
+    "message": "Σημειώσεις Auto Επιλογές"
+  },
+"ShowBar_text": {
+    "message": "Εμφάνιση γραμμής"
+  },
+  "Edit_notes": {
+    "message": "Επεξεργασία"
+  },
+  
+"HideBar_text": {
+    "message": "Απόκρυψη Μπαρ"
+  },
+"MenuBar_notes": {
+    "message": "Τρέχουσες Σημείωση"
+  },
+  "Show_current_notes": {
+    "message": "Εμφάνιση Τρέχουσα Σημειώσεις"
+  },
+  
+  "Savednotes": {
+    "message": "Αποθηκευμένες Σημειώσεις"
+  },
+    "Renamesave": {
+    "message": "Μετονομασία"
+  },
+    "Removesave": {
+    "message": "Διαγραφή"
+  },
+    "Makecurrent": {
+    "message": "Κάντε Ρεύμα"
+  },
+    "Create_Archive": {
+    "message": "Αποθήκευση"
+  },
+ "MenuBar_notes_title": {
+    "message": "Η τωρινή σημειώσεις σας."
+  },
+"MenuBar_commands": {
+        "message": "Εντολές"
+  },
+"MenuBar_commands_title": {
+        "message": "Κατάλογος των υφιστάμενων διαθέσιμων εντολών"
+  },
+"MenuBar_faq": {
+    "message": "Συχνές ερωτήσεις"
+  },
+"MenuBar_faq_title": {
+    "message": "Αυτόματη Σημειώσεις συχνές ερωτήσεις"
+  },
+"MenuBar_features": {
+    "message": "Χαρακτηριστικά"
+  },
+"MenuBar_options": {
+    "message": "Επιλογές"
+  },
+  "Edit_notes": {
+    "message": "Επεξεργασία Σημειώσεις"
+  },
+"MenuBar_features_title": {
+    "message": "Αυτόματη λίστα των χαρακτηριστικών Σημειώσεις"
+  }
+}
+

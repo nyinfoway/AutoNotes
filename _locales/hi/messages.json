@@ -1,0 +1,226 @@
+﻿{
+"Auto_notes_title": {
+    "message": "ऑटो नोट्स"
+ },
+ "Auto_notes_note_saved_is_empty": {
+    "message": "सहेजा नोट्स खाली है."
+ },
+  "Auto_notes_open_saved_note": {
+    "message": "बचाया नोट खोलने के लिए दूर करें."
+ },
+ 
+   "Auto_notes_is_removed": {
+    "message": "निकाल दिया जाता है."
+ },
+
+ "Auto_notes_is_renamed":{
+    "message": "का नाम बदला जाता है "
+ },
+    "Auto_notes_error_remove_it": {
+    "message": "स्वीकार नहीं."
+ },
+     "Auto_notes_current_note_is_save_and_this_is_current": {
+    "message": "आपके मौजूदा वर्तमान नोट्स saved.And है यह अपने वर्तमान नोट्स है."
+ },
+     "Auto_notes_saved": {
+    "message": "सहेजा ध्यान दें."
+ },
+"Option_extension_Your_notes_are_intact":{
+    "message": "आपके नोट्स बरकरार हैं."
+  },
+"Option_extension_Are_you_sure_to_delete_your_notes": {
+    "message": "आप अपने नोट्स को नष्ट करने के लिए यकीन है?"
+  },
+"Option_extension_All_rights_reserved": {
+    "message": "2012 सभी अधिकार सुरक्षित"
+  },
+  "Option_extension_option_page": {
+    "message": "विकल्प दिखाएँ"
+  },
+  "Option_extension_current_options": {
+    "message": "ऑटो नोट्स के लिए वर्तमान विकल्प हैं"
+  },
+  "Option_extension_modify_option": {
+    "message" :"विकल्प संशोधित"
+  },
+  "Option_extension_youtube_demo": {
+    "message": "यूथट्यूब डेमो"
+  },
+   "Option_extension_show_notes_page": {
+    "message": "वर्तमान नोट्स"
+  },
+"Option_extension_Google": {
+    "message": "गूगल +"
+  },
+"Option_extension_Facebook": {
+    "message": "फेसबुक"
+  },
+"Option_extension_Twitter": {
+    "message": "चहचहाना"
+  },
+"Option_extension_Print_notes": {
+    "message": "प्रिंट नोट्स"
+  },
+"Option_extension_Email_notes": {
+    "message": "ईमेल नोट्स"
+  },
+ "ShowNotes_extension_your_notes_on": {
+    "message": "आपके मौजूदा नोट"
+  },
+  "ShowNotes_extension_no_notes": {
+    "message": "नहीं नोट्स पाया, प्रतिलिपि नोट्स आदेश का उपयोग करने के लिए नोट्स जोड़ने."
+  },
+"ShowNotes_extension_current_commands": {
+    "message": "ऑटो नोट्स के लिए अपने आज्ञाओं"
+  },
+"ShowNotes_extension_faq_list": {
+    "message": "बार - बार पूछे जाने वाले प्रश्न"
+  },
+"ShowNotes_extension_options": {
+    "message": "ऑटो नोट्स विकल्प"
+  },
+  "ShowNotes_extension_options_current": {
+    "message": "ऑटो नोट्स के लिए वर्तमान विकल्प"
+  },
+"ShowNotes_extension_features_list": {
+    "message": "सुविधाओं की ऑटो नोट्स सूची"
+  },
+ "Option_extension_Hide_Bullets": {
+    "message": "छुपाएँ बुलेट"
+  },
+"Option_extension_Hide_URLs": {
+    "message": "यूआरएल छुपाएँ"
+  },
+"Option_extension_copy_on_select": {
+    "message": "ऑटो प्रतिलिपि"
+  },
+"Option_extension_copy_notes": {
+    "message": "कॉपी नोट:"
+  },
+ "Option_extension_auto_enabled":{
+    "message": "ऑटो प्रतिलिपि"
+  },
+ "Option_extension_delete_notes": {
+    "message": "हटाएँ नोट्स:"
+  },
+"Option_extension_show_notes": {
+    "message": "दिखाएँ नोट्स:"
+  },
+"Option_extension_show_options": {
+    "message": "दिखाएँ विकल्प"
+  },
+"Option_extension_select_colour": {
+    "message": "नोटों के रंग का चयन करें"
+  },
+"Option_extension_show_notes_in": {
+    "message": "नोट्स दिखाएँ"
+  },
+  "Chrome_extension_name": {
+    "message": "ऑटो नोट्स"
+  },
+  "Chrome_extension_title": {
+    "message": "ऑटो नोट्स"
+  },
+  "Chrome_extension_description": {
+    "message": "गूगल क्रोम के लिए स्वचालित नोट्स."
+  },
+  "Contents_notes_added_notification": {
+    "message": "नोट ... जोड़ी"
+  },
+  "Options_chrome_restricted_key_alert": {
+    "message": "क्रोम शॉर्टकट कुंजी संघर्ष, कृपया अपने शॉर्टकट के लिए एक अलग कुंजी संयोजन का चयन करें."
+  },
+   "Options_value_default_reset": {
+    "message" :"विकल्प मूल्यों के लिए डिफ़ॉल्ट सेट."
+  },
+   "Options_value_set_success": {
+    "message": "विकल्प मूल्य सफलतापूर्वक संशोधित."
+  },
+   "Options_duplicate_values_fail": {
+    "message": "शॉर्टकट कुंजी संघर्ष डुप्लिकेट, नया शॉर्टकट विकल्प सेट करने में विफल रहा है."
+  },
+    "Options_chrome_notes_support": {
+    "message": "ऑनलाइन समर्थन"
+  },
+  "Options_chrome_notes_support_page": {
+    "message": "वेब पर ऑटो नोट्स."
+  },
+   "Options_reset_button_value":{
+    "message": "डिफ़ॉल्ट सेटिंग्स रीसेट"
+  },
+     "Options_reset_button_title": {
+    "message": "डिफ़ॉल्ट सेटिंग्स को रीसेट करता है विकल्प"
+  },
+    "Contents_delete_notes": {
+    "message": "आप अपने नोट्स को नष्ट करना चाहते हैं?"
+  },
+    "Contents_notes_not_deleted":{
+    "message": "नोट नहीं नष्ट कर दिया."
+  },
+    "Options_current_locale":{
+    "message": "वर्तमान भाषा:"
+  },
+"Options_current_page_tittle": {
+    "message": "ऑटो नोट्स विकल्प"
+  },
+"ShowBar_text": {
+    "message": "बार दिखाएँ"
+  },
+  "Edit_notes": {
+    "message": "संपादन"
+  },
+  
+"HideBar_text": {
+    "message": "बार छुपाएँ"
+  },
+"MenuBar_notes": {
+    "message": "वर्तमान नोट"
+  },
+  "Show_current_notes": {
+    "message" :"वर्तमान नोट्स"
+  },
+  
+  "Savednotes": {
+    "message": "सहेजा नोट्स"
+  },
+    "Renamesave": {
+    "message": "नाम बदलें"
+  },
+    "Removesave": {
+    "message": "हटाएँ"
+  },
+    "Makecurrent": {
+    "message": "वर्तमान करें"
+  },
+    "Create_Archive": {
+    "message": "सहेजें"
+  },
+ "MenuBar_notes_title": {
+    "message": "आपके मौजूदा नोट्स."
+  },
+"MenuBar_commands": {
+        "message": "आदेश"
+  },
+"MenuBar_commands_title": {
+        "message": "वर्तमान में उपलब्ध आदेशों की सूची"
+  },
+"MenuBar_faq": {
+    "message": "अक्सर पूछे जाने वाले प्रश्न"
+  },
+"MenuBar_faq_title": {
+    "message": "ऑटो नोट्स अक्सर सवाल पूछा"
+  },
+"MenuBar_features": {
+    "message": "सुविधाएँ"
+  },
+"MenuBar_options": {
+    "message": "विकल्प"
+  },
+  "Edit_notes": {
+    "message" :"संपादित करें नोट्स"
+  },
+"MenuBar_features_title": {
+    "message": "सुविधाओं की ऑटो नोट्स सूची"
+  }
+}
+

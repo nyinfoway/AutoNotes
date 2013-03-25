@@ -1,0 +1,223 @@
+﻿{
+"Auto_notes_title": {
+    "message": "Auto Notes"
+ },
+ "Auto_notes_note_saved_is_empty": {
+    "message": "Mentett Notes üres."
+ },
+  "Auto_notes_open_saved_note": {
+    "message": "Kérem, nyissa mentett feljegyzést, hogy távolítsa el."
+ },
+   "Auto_notes_is_removed": {
+    "message": "el kell távolítani."
+ }, "Auto_notes_is_renamed": {
+    "message": "új neve."
+ },
+    "Auto_notes_error_remove_it": {
+    "message": ":: nem fogad el."
+ },
+     "Auto_notes_current_note_is_save_and_this_is_current": {
+    "message": "A jelenlegi aktuális Notes saved.And ez az aktuális jegyzeteket."
+ },
+     "Auto_notes_saved": {
+    "message": "Megjegyzés: Mentett."
+ },
+"Option_extension_Your_notes_are_intact": {
+    "message": "A jegyzetek ép."
+  },
+"Option_extension_Are_you_sure_to_delete_your_notes": {
+    "message": "Biztosan törölni a jegyzeteimet?"
+  },
+"Option_extension_All_rights_reserved": {
+    "message": "2012 Minden jog fenntartva"
+  },
+  "Option_extension_option_page": {
+    "message": "Beállítások megjelenítése"
+  },
+  "Option_extension_current_options": {
+    "message": "A jelenlegi lehetőségek Auto megjegyzi:"
+  },
+  "Option_extension_modify_option": {
+    "message": "a Módosítás Options"
+  },
+  "Option_extension_youtube_demo": {
+    "message": "Youtube demo"
+  },
+   "Option_extension_show_notes_page": {
+    "message": "Jelenlegi Notes"
+  },
+"Option_extension_Google": {
+    "message": "Google +"
+  },
+"Option_extension_Facebook": {
+    "message": "Facebook"
+  },
+"Option_extension_Twitter": {
+    "message": "Twitter"
+  },
+"Option_extension_Print_notes": {
+    "message": "Nyomtatás Notes"
+  },
+"Option_extension_Email_notes": {
+    "message": "E-mail notes"
+  },
+ "ShowNotes_extension_your_notes_on": {
+    "message": "A jelenlegi Note"
+  },
+  "ShowNotes_extension_no_notes": {
+    "message": "semmiféle feljegyzés található, használja másolatot jegyzetek paranccsal a jegyzetet."
+  },
+"ShowNotes_extension_current_commands": {
+    "message": "A parancsok Auto Notes"
+  },
+"ShowNotes_extension_faq_list": {
+    "message": "Gyakran feltett kérdések"
+  },
+"ShowNotes_extension_options": {
+    "message": "Auto Notes Options"
+  },
+  "ShowNotes_extension_options_current": {
+    "message": "A jelenlegi lehetőségek Auto Notes"
+  },
+"ShowNotes_extension_features_list": {
+    "message": "Auto jegyzetek szolgáltatások listája"
+  },
+ "Option_extension_Hide_Bullets": {
+    "message": "Hide Bullets"
+  },
+"Option_extension_Hide_URLs": {
+    "message": "URL-ek elrejtése"
+  },
+"Option_extension_copy_on_select": {
+    "message": "Automatikus másolat"
+  },
+"Option_extension_copy_notes": {
+    "message": "Másolás megjegyzi:"
+  },
+ "Option_extension_auto_enabled": {
+    "message": "Automatikus másolat"
+  },
+ "Option_extension_delete_notes": {
+    "message": "Jegyzetek törlése:"
+  },
+"Option_extension_show_notes": {
+    "message": "Show Notes"
+  },
+"Option_extension_show_options": {
+    "message": "Show Options"
+  },
+"Option_extension_select_colour": {
+    "message": "Válassza színe megjegyzi:"
+  },
+"Option_extension_show_notes_in": {
+    "message": "Mutasd megjegyzi:"
+  },
+  "Chrome_extension_name": {
+    "message": "Auto Notes"
+  },
+  "Chrome_extension_title": {
+    "message": "Auto Notes"
+  },
+  "Chrome_extension_description": {
+    "message": "Automatikus jegyzetek a Google Chrome."
+  },
+  "Contents_notes_added_notification": {
+    "message": "Note added ..."
+  },
+  "Options_chrome_restricted_key_alert": {
+    "message": "Chrome gyorsbillentyű konfliktus, kérjük válasszon másik billentyűkombinációt a parancsikon."
+  },
+   "Options_value_default_reset": {
+    "message": "opció az alapértelmezett értékek."
+  },
+   "Options_value_set_success": {
+    "message": "Az opció értéke módosítása sikeres volt."
+  },
+   "Options_duplicate_values_fail": {
+    "message": "Duplicate gyorsbillentyű konfliktus, új parancsikon opciót nem sikerült beállítani."
+  },
+    "Options_chrome_notes_support": {
+    "message": "Online támogatás:"
+  },
+  "Options_chrome_notes_support_page": {
+    "message": "Auto Megjegyzések a világhálón."
+  },
+   "Options_reset_button_value": {
+    "message": "Minden beállítás visszaállítása az alapértelmezett"
+  },
+     "Options_reset_button_title": {
+    "message": "Visszaállítja az alapértelmezett beállításokat."
+  },
+    "Contents_delete_notes": {
+    "message": "Szeretné törölni a jegyzeteimet?"
+  },
+    "Contents_notes_not_deleted": {
+    "message": "Notes nem törlődnek."
+  },
+    "Options_current_locale": {
+    "message": "Current language:"
+  },
+"Options_current_page_tittle": {
+    "message": "Auto Notes Options"
+  },
+"ShowBar_text": {
+    "message": "Mutasd Bar"
+  },
+  "Edit_notes": {
+    "message": "Edit"
+  },
+  
+"HideBar_text": {
+    "message": "Hide Bar"
+  },
+"MenuBar_notes": {
+    "message": "Jelenlegi Megjegyzés"
+  },
+  "Show_current_notes": {
+    "message": "Mutasd Jelenlegi Notes"
+  },
+  
+  "Savednotes": {
+    "message": "Elmentett Notes"
+  },
+    "Renamesave": {
+    "message": "Rename"
+  },
+    "Removesave": {
+    "message": "Delete"
+  },
+    "Makecurrent": {
+    "message": "a folyó"
+  },
+    "Create_Archive": {
+    "message": "Mentés"
+  },
+ "MenuBar_notes_title": {
+    "message": "A jelenlegi jegyzetek."
+  },
+"MenuBar_commands": {
+        "message": "parancsok"
+  },
+"MenuBar_commands_title": {
+        "message": "listája jelenleg elérhető parancsok"
+  },
+"MenuBar_faq": {
+    "message": "FAQ"
+  },
+"MenuBar_faq_title": {
+    "message": "Auto Notes gyakran ismételt kérdések"
+  },
+"MenuBar_features": {
+    "message": "Features"
+  },
+"MenuBar_options": {
+    "message": "Options"
+  },
+  "Edit_notes": {
+    "message": "Edit Notes"
+  },
+"MenuBar_features_title": {
+    "message": "Auto Notes szolgáltatások listája"
+  }
+}
+

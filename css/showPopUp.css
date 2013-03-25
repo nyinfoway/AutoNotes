@@ -1,0 +1,34 @@
+
+table{font-size: 12px;}
+#option-table
+{color:grey;/* #4E7DC2;*/
+font-weight: bold;
+    width:200px;
+	font-size:12px;
+	 /*background:#fff4c8;*/
+	border:3px solid #ffffff;
+	border-radius:5px;
+	padding:5px;
+	font-size: medium;
+ }
+ .option-val
+ {
+ color:red;
+/* font-size: large;*/
+ }
+ #no0
+ {
+	font-size: medium;
+ }
+  #title
+ {
+	text-align:center;
+ }
+ 
+ body {
+font-family: Arial, Helvetica, Verdana, Sans-serif;
+font-size: 62.5%;
+ 
+background: white;
+overflow: auto;
+}

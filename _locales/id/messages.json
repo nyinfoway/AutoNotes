@@ -1,0 +1,223 @@
+﻿{
+"Auto_notes_title": {
+    "message": "Auto Catatan"
+ },
+ "Auto_notes_note_saved_is_empty": {
+    "message": "Catatan Tersimpan kosong."
+ },
+  "Auto_notes_open_saved_note": {
+    "message": "Silahkan buka catatan disimpan untuk menghapus."
+ },
+   "Auto_notes_is_removed": {
+    "message": "dihapus."
+ }, "Auto_notes_is_renamed": {
+    "message": "adalah nama."
+ },
+    "Auto_notes_error_remove_it": {
+    "message": ":: tidak diterima."
+ },
+     "Auto_notes_current_note_is_save_and_this_is_current": {
+    "message": "catatan Anda yang sudah ada saat ini saved.And ini adalah catatan Anda sekarang."
+ },
+     "Auto_notes_saved": {
+    "message": "Perhatikan tersimpan."
+ },
+"Option_extension_Your_notes_are_intact": {
+    "message": "Catatan Anda masih utuh."
+  },
+"Option_extension_Are_you_sure_to_delete_your_notes": {
+    "message": "Anda yakin untuk menghapus catatan Anda?"
+  },
+"Option_extension_All_rights_reserved": {
+    "message": "2012 Semua hak dilindungi"
+  },
+  "Option_extension_option_page": {
+    "message": "Pilihan Tampilkan"
+  },
+  "Option_extension_current_options": {
+    "message": "pilihan saat ini untuk Auto Catatan:"
+  },
+  "Option_extension_modify_option": {
+    "message": "Ubah Opsi"
+  },
+  "Option_extension_youtube_demo": {
+    "message": "Youtube demo"
+  },
+   "Option_extension_show_notes_page": {
+    "message": "Lancar Catatan"
+  },
+"Option_extension_Google": {
+    "message": "Google +"
+  },
+"Option_extension_Facebook": {
+    "message": "Facebook"
+  },
+"Option_extension_Twitter": {
+    "message": "Twitter"
+  },
+"Option_extension_Print_notes": {
+    "message": "Cetak catatan"
+  },
+"Option_extension_Email_notes": {
+    "message": "Email catatan"
+  },
+ "ShowNotes_extension_your_notes_on": {
+    "message": "Catatan Saat Anda"
+  },
+  "ShowNotes_extension_no_notes": {
+    "message": "Tidak ada catatan ditemukan, menggunakan catatan salinan perintah untuk menambahkan catatan."
+  },
+"ShowNotes_extension_current_commands": {
+    "message": "Anda perintah untuk Catatan Auto"
+  },
+"ShowNotes_extension_faq_list": {
+    "message": "Sering Diajukan"
+  },
+"ShowNotes_extension_options": {
+    "message": "Catatan Auto Opsi"
+  },
+  "ShowNotes_extension_options_current": {
+    "message": "pilihan saat ini untuk Catatan Auto"
+  },
+"ShowNotes_extension_features_list": {
+    "message": "Auto catatan daftar fitur"
+  },
+ "Option_extension_Hide_Bullets": {
+    "message": "Sembunyikan Peluru"
+  },
+"Option_extension_Hide_URLs": {
+    "message": "Sembunyikan URL"
+  },
+"Option_extension_copy_on_select": {
+    "message": "Auto copy:"
+  },
+"Option_extension_copy_notes": {
+    "message": "catatan Salin:"
+  },
+ "Option_extension_auto_enabled": {
+    "message": "Auto copy:"
+  },
+ "Option_extension_delete_notes": {
+    "message": "Hapus catatan:"
+  },
+"Option_extension_show_notes": {
+    "message": "catatan Tampilkan:"
+  },
+"Option_extension_show_options": {
+    "message": "Pilihan Tampilkan:"
+  },
+"Option_extension_select_colour": {
+    "message": "Pilih warna catatan:"
+  },
+"Option_extension_show_notes_in": {
+    "message": "Tampilkan catatan dalam:"
+  },
+  "Chrome_extension_name": {
+    "message": "Auto Catatan"
+  },
+  "Chrome_extension_title": {
+    "message": "Auto Catatan"
+  },
+  "Chrome_extension_description": {
+    "message": "Otomatis catatan untuk Google Chrome."
+  },
+  "Contents_notes_added_notification": {
+    "message": "Note added ..."
+  },
+  "Options_chrome_restricted_key_alert": {
+    "message": "Chrome pintas konflik kunci, silakan pilih kombinasi tombol yang berbeda untuk cara pintas Anda."
+  },
+   "Options_value_default_reset": {
+    "message": "nilai-nilai Opsi diatur ke default."
+  },
+   "Options_value_set_success": {
+    "message": "nilai Opsi dimodifikasi dengan sukses."
+  },
+   "Options_duplicate_values_fail": {
+    "message": "Duplikasi konflik tombol pintas, pilihan shortcut baru gagal untuk mengatur."
+  },
+    "Options_chrome_notes_support": {
+    "message": "Dukungan Online:"
+  },
+  "Options_chrome_notes_support_page": {
+    "message": "Catatan Auto di web."
+  },
+   "Options_reset_button_value": {
+    "message": "Mengatur ulang pengaturan ke default"
+  },
+     "Options_reset_button_title": {
+    "message": ". Mereset pilihan untuk setting default"
+  },
+    "Contents_delete_notes": {
+    "message": "Apakah Anda ingin menghapus catatan Anda?"
+  },
+    "Contents_notes_not_deleted": {
+    "message": "Catatan tidak dihapus."
+  },
+    "Options_current_locale": {
+    "message": "bahasa saat ini:"
+  },
+"Options_current_page_tittle": {
+    "message": "Catatan Auto Opsi"
+  },
+"ShowBar_text": {
+    "message": "Tampilkan bar"
+  },
+  "Edit_notes": {
+    "message": "Edit"
+  },
+  
+"HideBar_text": {
+    "message": "Sembunyikan Bar"
+  },
+"MenuBar_notes": {
+    "message": "Catatan Lancar"
+  },
+  "Show_current_notes": {
+    "message": "Tampilkan Lancar Catatan"
+  },
+  
+  "Savednotes": {
+    "message": "Saved Catatan"
+  },
+    "Renamesave": {
+    "message": "Rename"
+  },
+    "Removesave": {
+    "message": "Hapus"
+  },
+    "Makecurrent": {
+    "message": "Membuat Lancar"
+  },
+    "Create_Archive": {
+    "message": "Save"
+  },
+ "MenuBar_notes_title": {
+    "message": "catatan Anda saat ini."
+  },
+"MenuBar_commands": {
+        "message": "Perintah"
+  },
+"MenuBar_commands_title": {
+        "message": "Daftar perintah yang tersedia saat ini"
+  },
+"MenuBar_faq": {
+    "message": "FAQ"
+  },
+"MenuBar_faq_title": {
+    "message": "Catatan Auto tanya jawab"
+  },
+"MenuBar_features": {
+    "message": "Fitur"
+  },
+"MenuBar_options": {
+    "message": "Opsi"
+  },
+  "Edit_notes": {
+    "message": "Edit Catatan"
+  },
+"MenuBar_features_title": {
+    "message": "Auto Catatan daftar fitur"
+  }
+}
+

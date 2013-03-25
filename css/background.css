@@ -1,0 +1,8 @@
+body {
+	width:1200; height:100;
+}
+::selection {background: #c80000; color: #F1F1F1;}
+::-moz-selection {background: #c80000; color: #F1F1F1;}
+
+img::selection {background: transparent;}
+img::-moz-selection {background: transparent;}

@@ -1,0 +1,223 @@
+﻿{
+"Auto_notes_title" :{
+    "message": "Auto Notes"
+ },
+ "Auto_notes_note_saved_is_empty" :{
+    "message": "Opgeslagen Notes is leeg."
+ },
+  "Auto_notes_open_saved_note": {
+    "message": "Open opgeslagen taak te verwijderen."
+ },
+   "Auto_notes_is_removed": {
+    "message": "wordt verwijderd."
+ }, "Auto_notes_is_renamed": {
+    "message": "is gewijzigd."
+ },
+    "Auto_notes_error_remove_it": {
+    "message": ":: niet geaccepteerd."
+ },
+     "Auto_notes_current_note_is_save_and_this_is_current" :{
+    "message": "Uw bestaande huidige notities wordt saved.And dit je huidige notities."
+ },
+     "Auto_notes_saved" :{
+    "message": "Let op opgeslagen."
+ },
+"Option_extension_Your_notes_are_intact" :{
+    "message": "Uw notities intact zijn."
+  },
+"Option_extension_Are_you_sure_to_delete_your_notes": {
+    "message": "Weet u zeker dat uw notities wilt verwijderen?"
+  },
+"Option_extension_All_rights_reserved" :{
+    "message": "2012 Alle rechten voorbehouden"
+  },
+  "Option_extension_option_page": {
+    "message": "Show options"
+  },
+  "Option_extension_current_options" :{
+    "message": "De huidige opties voor Auto Opmerkingen:"
+  },
+  "Option_extension_modify_option": {
+    "message": "Wijzig Opties"
+  },
+  "Option_extension_youtube_demo" :{
+    "message": "Youtube demo"
+  },
+   "Option_extension_show_notes_page": {
+    "message": "Huidige Notes"
+  },
+"Option_extension_Google" :{
+    "message": "Google +"
+  },
+"Option_extension_Facebook" :{
+    "message": "Facebook"
+  },
+"Option_extension_Twitter" :{
+    "message": "Twitter"
+  },
+"Option_extension_Print_notes" :{
+    "message": "Print notes"
+  },
+"Option_extension_Email_notes" :{
+    "message": "E-mail notes"
+  },
+ "ShowNotes_extension_your_notes_on": {
+    "message": "Uw huidige Note"
+  },
+  "ShowNotes_extension_no_notes" :{
+    "message": "Er mogen geen aantekeningen gevonden, gebruikt u kopie nota opdracht om notities toe te voegen."
+  },
+"ShowNotes_extension_current_commands" :{
+    "message": "Uw opdrachten voor Auto Notes"
+  },
+"ShowNotes_extension_faq_list" :{
+    "message": "Veelgestelde vragen"
+  },
+"ShowNotes_extension_options" :{
+    "message": "Auto Notes Opties"
+  },
+  "ShowNotes_extension_options_current": {
+    "message": "De huidige opties voor Auto Notes"
+  },
+"ShowNotes_extension_features_list": {
+    "message": "Auto noten lijst van functies"
+  },
+ "Option_extension_Hide_Bullets" :{
+    "message": "Verberg Bullets"
+  },
+"Option_extension_Hide_URLs" :{
+    "message": "Verberg URL's"
+  },
+"Option_extension_copy_on_select": {
+    "message": "Auto copy:"
+  },
+"Option_extension_copy_notes": {
+    "message": "Copy Opmerkingen:"
+  },
+ "Option_extension_auto_enabled" :{
+    "message": "Auto copy:"
+  },
+ "Option_extension_delete_notes": {
+    "message": "Notities verwijderen:"
+  },
+"Option_extension_show_notes": {
+    "message": "Toon Opmerkingen:"
+  },
+"Option_extension_show_options" :{
+    "message": "Show Options:"
+  },
+"Option_extension_select_colour": {
+    "message": "Kies kleur van de notes:"
+  },
+"Option_extension_show_notes_in": {
+    "message": "Toon opmerkingen in:"
+  },
+  "Chrome_extension_name": {
+    "message": "Auto Notes"
+  },
+  "Chrome_extension_title" :{
+    "message": "Auto Notes"
+  },
+  "Chrome_extension_description" :{
+    "message": "Automatische informatie voor Google Chrome."
+  },
+  "Contents_notes_added_notification": {
+    "message": "noot toegevoegd ..."
+  },
+  "Options_chrome_restricted_key_alert": {
+    "message": "Chrome sneltoets conflict, vriendelijk selecteert u een andere toets combinatie voor uw snelkoppeling."
+  },
+   "Options_value_default_reset": {
+    "message": "Optie waarden ingesteld op standaard."
+  },
+   "Options_value_set_success": {
+    "message": "optiewaarde succesvol gewijzigd."
+  },
+   "Options_duplicate_values_fail" :{
+    "message": "Dubbele sneltoets conflict, nieuwe snelkoppeling optie niet in te stellen."
+  },
+    "Options_chrome_notes_support": {
+    "message": "Online ondersteuning:"
+  },
+  "Options_chrome_notes_support_page": {
+    "message": "Auto Opmerkingen over het web."
+  },
+   "Options_reset_button_value": {
+    "message": "Reset instellingen op standaard"
+  },
+     "Options_reset_button_title" :{
+    "message": ". Zet opties voor standaard instellingen"
+  },
+    "Contents_delete_notes" :{
+    "message": "Wilt u uw notities wilt verwijderen?"
+  },
+    "Contents_notes_not_deleted": {
+    "message": "Notes niet verwijderd."
+  },
+    "Options_current_locale": {
+    "message": "Huidige taal:"
+  },
+"Options_current_page_tittle": {
+    "message": "Auto Notes Opties"
+  },
+"ShowBar_text" :{
+    "message": "Show Bar"
+  },
+  "Edit_notes": {
+    "message": "Edit"
+  },
+  
+"HideBar_text": {
+    "message": "Hide Bar"
+  },
+"MenuBar_notes" :{
+    "message": "Huidige Note"
+  },
+  "Show_current_notes" :{
+    "message": "Toon Huidige Notes"
+  },
+  
+  "Savednotes": {
+    "message": "Opgeslagen Notes"
+  },
+    "Renamesave" :{
+    "message": "Rename"
+  },
+    "Removesave": {
+    "message": "Delete"
+  },
+    "Makecurrent" :{
+    "message": "Maak Current"
+  },
+    "Create_Archive": {
+    "message": "Opslaan"
+  },
+ "MenuBar_notes_title": {
+    "message": "Uw huidige notities."
+  },
+"MenuBar_commands" :{
+        "message": "Commando's"
+  },
+"MenuBar_commands_title": {
+        "message": "Lijst van de huidige beschikbare commando's"
+  },
+"MenuBar_faq" :{
+    "message": "FAQ"
+  },
+"MenuBar_faq_title" :{
+    "message": "Auto Notes veel gestelde vragen"
+  },
+"MenuBar_features" :{
+    "message": "Features"
+  },
+"MenuBar_options": {
+    "message": "Opties"
+  },
+  "Edit_notes" :{
+    "message": "Edit Notes"
+  },
+"MenuBar_features_title": {
+    "message": "Auto Notes lijst van functies"
+  }
+}
+

@@ -1,0 +1,223 @@
+﻿{
+"Auto_notes_title": {
+    "message": "Auto Notes"
+ },
+ "Auto_notes_note_saved_is_empty": {
+    "message": "gespeicherten Notizen ist leer."
+ },
+  "Auto_notes_open_saved_note": {
+    "message": "Bitte öffnen Sie gespeicherte Notiz zu entfernen."
+ },
+   "Auto_notes_is_removed": {
+    "message": "entfernt wird."
+ }, "Auto_notes_is_renamed": {
+    "message": "umbenannt wird."
+ },
+    "Auto_notes_error_remove_it": {
+    "message": ":: nicht akzeptiert."
+ },
+     "Auto_notes_current_note_is_save_and_this_is_current": {
+    "message": "Ihre bestehenden aktuellen Noten wird saved.And Das ist Ihr aktueller Noten."
+ },
+     "Auto_notes_saved": {
+    "message": "Notiz gespeichert."
+ },
+"Option_extension_Your_notes_are_intact": {
+    "message": "Ihre Notizen sind intakt."
+  },
+"Option_extension_Are_you_sure_to_delete_your_notes": {
+    "message": "Sind Sie sicher auf Ihre Notizen löschen?"
+  },
+"Option_extension_All_rights_reserved": {
+    "message": "2012 Alle Rechte vorbehalten"
+  },
+  "Option_extension_option_page": {
+    "message": "Optionen anzeigen"
+  },
+  "Option_extension_current_options": {
+    "message": "Aktuelle Optionen für Auto Anmerkungen:"
+  },
+  "Option_extension_modify_option": {
+    "message": "Optionen ändern"
+  },
+  "Option_extension_youtube_demo": {
+    "message": "Youtube-Demo"
+  },
+   "Option_extension_show_notes_page": {
+    "message": "Aktuelle Hinweise"
+  },
+"Option_extension_Google": {
+    "message": "Google +"
+  },
+"Option_extension_Facebook": {
+    "message": "Facebook"
+  },
+"Option_extension_Twitter": {
+    "message": "Twitter"
+  },
+"Option_extension_Print_notes": {
+    "message": "Drucken von Notizen"
+  },
+"Option_extension_Email_notes": {
+    "message": "E-Mail-Notizen"
+  },
+ "ShowNotes_extension_your_notes_on": {
+    "message": "Ihre aktuelle Notiz"
+  },
+  "ShowNotes_extension_no_notes": {
+    "message": "Keine Hinweise gefunden, verwenden Sie copy-Befehl Notizen, um Notizen hinzuzufügen."
+  },
+"ShowNotes_extension_current_commands": {
+    "message": "Ihre Befehle für die Auto-Notizen"
+  },
+"ShowNotes_extension_faq_list": {
+    "message": "Frequently Asked Questions"
+  },
+"ShowNotes_extension_options": {
+    "message": "Auto Notes-Optionen"
+  },
+  "ShowNotes_extension_options_current": {
+    "message": "Aktuelle Optionen für Auto-Notizen"
+  },
+"ShowNotes_extension_features_list": {
+    "message": "Auto Noten Liste der Funktionen"
+  },
+ "Option_extension_Hide_Bullets": {
+    "message": "Hide Bullets"
+  },
+"Option_extension_Hide_URLs": {
+    "message": "Hide-URLs"
+  },
+"Option_extension_copy_on_select": {
+    "message": "Auto Kopie:"
+  },
+"Option_extension_copy_notes": {
+    "message": "Kopieren Hinweise:"
+  },
+ "Option_extension_auto_enabled": {
+    "message": "Auto Kopie:"
+  },
+ "Option_extension_delete_notes": {
+    "message": "Einträge löschen"
+  },
+"Option_extension_show_notes": {
+    "message": "Show notes:"
+  },
+"Option_extension_show_options": {
+    "message": "Optionen einblenden"
+  },
+"Option_extension_select_colour": {
+    "message": "Wählen Sie die Farbe der Noten:"
+  },
+"Option_extension_show_notes_in": {
+    "message": "Zeigen Sie Notizen in:"
+  },
+  "Chrome_extension_name": {
+    "message": "Auto Notes"
+  },
+  "Chrome_extension_title": {
+    "message": "Auto Notes"
+  },
+  "Chrome_extension_description": {
+    "message": "Automatische Noten für Google Chrome."
+  },
+  "Contents_notes_added_notification": {
+    "message": "Anmerkung hinzugefügt ..."
+  },
+  "Options_chrome_restricted_key_alert": {
+    "message": "Chrome Tastenkombination Konflikt, bitte wählen Sie eine andere Tastenkombination für die Verknüpfung."
+  },
+   "Options_value_default_reset": {
+    "message": "Option Werte auf die Standardeinstellungen gesetzt."
+  },
+   "Options_value_set_success": {
+    "message": ". Der Wert einer Option erfolgreich geändert"
+  },
+   "Options_duplicate_values_fail": {
+    "message": "Doppelte Tastenkombination Konflikts gescheitert neue Verknüpfung Option zu setzen."
+  },
+    "Options_chrome_notes_support": {
+    "message": "Online-Unterstützung:"
+  },
+  "Options_chrome_notes_support_page": {
+    "message": "Auto Hinweise zum Web."
+  },
+   "Options_reset_button_value": {
+    "message": "Reset Einstellungen auf die Standardwerte"
+  },
+     "Options_reset_button_title": {
+    "message": ". Setzt Optionen auf die Standardeinstellungen"
+  },
+    "Contents_delete_notes": {
+    "message": "Wollen Sie Ihre Notizen löschen?"
+  },
+    "Contents_notes_not_deleted": {
+    "message": "Hinweise nicht gelöscht."
+  },
+    "Options_current_locale": {
+    "message": "Aktuelle Sprache:"
+  },
+"Options_current_page_tittle": {
+    "message": "Auto Notes-Optionen"
+  },
+"ShowBar_text": {
+    "message": "Show Bar"
+  },
+  "Edit_notes": {
+    "message": "Bearbeiten"
+  },
+  
+"HideBar_text": {
+    "message": "Hide Bar"
+  },
+"MenuBar_notes": {
+    "message": "Aktueller Hinweis"
+  },
+  "Show_current_notes": {
+    "message": "Zeig Aktuelle Hinweise"
+  },
+  
+  "Savednotes": {
+    "message": "gespeicherten Notizen"
+  },
+    "Renamesave": {
+    "message": "Umbenennen"
+  },
+    "Removesave": {
+    "message": "Löschen"
+  },
+    "Makecurrent": {
+    "message": "Make Current"
+  },
+    "Create_Archive": {
+    "message": "Speichern"
+  },
+ "MenuBar_notes_title": {
+    "message": "Ihre aktuellen Noten."
+  },
+"MenuBar_commands": {
+        "message": "Befehle"
+  },
+"MenuBar_commands_title": {
+        "message": "Liste der aktuell verfügbaren Befehle"
+  },
+"MenuBar_faq": {
+    "message": "FAQ"
+  },
+"MenuBar_faq_title": {
+    "message": "Auto Hinweise Häufig gestellte Fragen"
+  },
+"MenuBar_features": {
+    "message": "Features"
+  },
+"MenuBar_options": {
+    "message": "Optionen"
+  },
+  "Edit_notes": {
+    "message": "Edit Notes"
+  },
+"MenuBar_features_title": {
+    "message": "Auto Notes-Liste der Funktionen"
+  }
+}
+

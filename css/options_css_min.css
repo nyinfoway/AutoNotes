@@ -1,0 +1,53 @@
+#content
+{
+    padding:12px;
+}
+#title
+{
+    color:#333;
+    font-size:20px;
+    margin:10px 0 0;
+    text-align:center
+}
+.option_row
+{
+    clear:left;
+    padding:35px 10px 0
+}
+.option_name
+{
+    float:left;
+    font-weight:bold;
+    margin-top:2px;
+    width:160px
+}
+.option_value
+{
+    float:left
+}
+.option_value_secondary
+{
+    margin:5px 0 20px 35px
+}
+.text_disabled
+{
+    color:#999
+}
+.buttons
+{
+    clear:left;
+    padding:20px 10px 10px
+}
+#save_status
+{
+    background-color:#fea;
+    font-weight:bold;
+    margin-left:10px;
+    opacity:0;
+    padding:3px
+}
+.footer
+{
+    margin-top:10px;
+    text-align:center
+}

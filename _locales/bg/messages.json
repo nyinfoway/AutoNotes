@@ -1,0 +1,223 @@
+﻿{
+"Auto_notes_title": {
+    "message": "AUTO"
+ },
+ "Auto_notes_note_saved_is_empty": {
+    "message": "Записани бележки е празна."
+ },
+  "Auto_notes_open_saved_note": {
+    "message": "Моля, отворете съхранена бележка да се премахне."
+ },
+   "Auto_notes_is_removed": {
+    "message": "е отстранен."
+ }, "Auto_notes_is_renamed": {
+    "message": "е преименувана."
+ },
+    "Auto_notes_error_remove_it": {
+    "message": ":: не е прието."
+ },
+     "Auto_notes_current_note_is_save_and_this_is_current": {
+    "message": "Вашите съществуващите настоящите бележки saved.And, това е текущите си бележки."
+ },
+     "Auto_notes_saved": {
+    "message": "Имайте предвид, спасен."
+ },
+"Option_extension_Your_notes_are_intact": {
+    "message": "Вашите бележки са непокътнати."
+  },
+"Option_extension_Are_you_sure_to_delete_your_notes": {
+    "message": "Сигурни ли сте, за да изтриете вашите бележки?"
+  },
+"Option_extension_All_rights_reserved": {
+    "message": "2012 Всички права запазени"
+  },
+  "Option_extension_option_page": {
+    "message": "Показване на опциите"
+  },
+  "Option_extension_current_options": {
+    "message": "Актуални възможности за автоматично бележки:"
+  },
+  "Option_extension_modify_option": {
+    "message": "Промяна Опции"
+  },
+  "Option_extension_youtube_demo": {
+    "message": "Youtube демо"
+  },
+   "Option_extension_show_notes_page": {
+    "message": "Актуални бележки"
+  },
+"Option_extension_Google": {
+    "message": "Google +"
+  },
+"Option_extension_Facebook": {
+    "message": "Facebook"
+  },
+"Option_extension_Twitter": {
+    "message": "Twitter"
+  },
+"Option_extension_Print_notes": {
+    "message": "Print"
+  },
+"Option_extension_Email_notes": {
+    "message": "Email бележки"
+  },
+ "ShowNotes_extension_your_notes_on": {
+    "message": "Вашата настоящата бележка"
+  },
+  "ShowNotes_extension_no_notes": {
+    "message": "Няма бележки са открити, използвайте командата копиране на бележки, за да добавите бележки."
+  },
+"ShowNotes_extension_current_commands": {
+    "message": "Вашите команди Бележки за автоматично"
+  },
+"ShowNotes_extension_faq_list": {
+    "message": "Често задавани въпроси"
+  },
+"ShowNotes_extension_options": {
+    "message": "Auto Опции"
+  },
+  "ShowNotes_extension_options_current": {
+    "message": "Актуални опции за автоматично Бележки"
+  },
+"ShowNotes_extension_features_list": {
+    "message": "Auto списък от функции"
+  },
+ "Option_extension_Hide_Bullets": {
+    "message": "Скрий Bullets"
+  },
+"Option_extension_Hide_URLs": {
+    "message": "Скрий URL адреси"
+  },
+"Option_extension_copy_on_select": {
+    "message": "Автоматично копие:"
+  },
+"Option_extension_copy_notes": {
+    "message": "Копие бележки:"
+  },
+ "Option_extension_auto_enabled": {
+    "message": "Автоматично копие:"
+  },
+ "Option_extension_delete_notes": {
+    "message": "Изтриване на бележки:"
+  },
+"Option_extension_show_notes": {
+    "message": "Показване на бележки:"
+  },
+"Option_extension_show_options": {
+    "message": "Показване на опциите:"
+  },
+"Option_extension_select_colour": {
+    "message": "Избор на цвят на бележка:"
+  },
+"Option_extension_show_notes_in": {
+    "message": "Покажи отбелязва в:"
+  },
+  "Chrome_extension_name": {
+    "message": "AUTO"
+  },
+  "Chrome_extension_title": {
+    "message": "AUTO"
+  },
+  "Chrome_extension_description": {
+    "message": "Автоматични бележки за Google Chrome."
+  },
+  "Contents_notes_added_notification": {
+    "message": "Забележка добавен ..."
+  },
+  "Options_chrome_restricted_key_alert": {
+    "message": "Chrome конфликт клавишна комбинация, любезно изберете различна клавишна комбинация за вашия пряк път."
+  },
+   "Options_value_default_reset": {
+    "message": "Вариант стойности по подразбиране."
+  },
+   "Options_value_set_success": {
+    "message": "Стойността на опцията промяна успешно."
+  },
+   "Options_duplicate_values_fail": {
+    "message": "дубликат клавиш конфликт, нова опция за пряк път не успяхме да създадем."
+  },
+    "Options_chrome_notes_support": {
+    "message": "Онлайн поддръжка:"
+  },
+  "Options_chrome_notes_support_page": {
+    "message": "Автоматично Бележки за уеб."
+  },
+   "Options_reset_button_value": {
+    "message": "Възстановяване на настройките по подразбиране"
+  },
+     "Options_reset_button_title": {
+    "message": "Връща опции за настройки по подразбиране"
+  },
+    "Contents_delete_notes": {
+    "message": "Смятате ли искате да изтриете вашите бележки?"
+  },
+    "Contents_notes_not_deleted": {
+    "message": "Не Бележки заличава."
+  },
+    "Options_current_locale": {
+    "message": "Текущ език:"
+  },
+"Options_current_page_tittle": {
+    "message": "Auto Опции"
+  },
+"ShowBar_text": {
+    "message": "Шоу Бар"
+  },
+  "Edit_notes": {
+    "message": "Edit"
+  },
+  
+"HideBar_text": {
+    "message": "Скрий Бар"
+  },
+"MenuBar_notes": {
+    "message": "настоящата бележка"
+  },
+  "Show_current_notes": {
+    "message": "Показва текущите бележки"
+  },
+  
+  "Savednotes": {
+    "message": "спасен Бележки"
+  },
+    "Renamesave": {
+    "message": "Преименуване"
+  },
+    "Removesave": {
+    "message": "Изтриване"
+  },
+    "Makecurrent": {
+    "message": "Текущи"
+  },
+    "Create_Archive": {
+    "message": "Save"
+  },
+ "MenuBar_notes_title": {
+    "message": "Вашите текущи бележки."
+  },
+"MenuBar_commands": {
+        "message": "Команди"
+  },
+"MenuBar_commands_title": {
+        "message": "Списък на текущите налични команди"
+  },
+"MenuBar_faq": {
+    "message": "Въпроси и отговори"
+  },
+"MenuBar_faq_title": {
+    "message": "Автоматично Бележки често задавани въпроси"
+  },
+"MenuBar_features": {
+    "message": "Характеристики"
+  },
+"MenuBar_options": {
+    "message": "Опции"
+  },
+  "Edit_notes": {
+    "message": "редактиране на бележки"
+  },
+"MenuBar_features_title": {
+    "message": "Auto списък от функции"
+  }
+}
+

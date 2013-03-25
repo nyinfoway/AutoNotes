@@ -1,0 +1,248 @@
+
+
+#top-menu-bar li{color: #4E7DC2;}
+
+a {
+ color: #4E7DC2;
+ text-decoration: none;
+}
+a:hover {
+  color: #880000;
+  text-decoration: underline;
+}
+#page-main {
+	width: 1388px;
+	margin: auto;
+	background:white;
+}
+#page-container {
+	width: 1100px;
+	margin: auto;
+	background: #ffffff;
+}
+html, body {
+	margin: 0;
+	padding: 0;
+	
+}
+
+body {
+	font-family: Arial, Helvetica, Verdana, Sans-serif;
+	/*font-size: 12px;*/
+	font-size: 62.5%;
+	color: #666666;
+	background: white;
+overflow:auto;
+}
+
+ul{
+	list-style:square;
+}
+.li
+{
+	background:red;
+}
+
+#top-nav-left {
+	
+	height: 50px;
+	text-align:left;
+}
+
+#top-nav-right {
+	
+	height: 25px;
+	text-align:right;
+	margin-right: 20px;
+	padding-top: 5px;
+	
+}
+
+#main-nav {
+	background:#98AFff;
+	height: 25px;
+}
+
+#header {
+	height: 125px;
+	text-align:left;
+	background: #ffffff
+	            url(/images/Autonotes_760_150_header.png) no-repeat;
+}
+#top-menu-bar{
+margin-left: 30%;
+	position:relative;
+	top: 20px;
+	left:660px;
+}
+#menu-list{
+ 
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+#sidebar-a {
+	float: left;
+	width: 40px;
+	height: 600px;
+	line-height: 18px;
+	margin-top: 20px;
+}
+
+#sidebar-b {
+	float: right;
+	width: 40px;
+	height: 600px;
+	line-height: 18px;
+	margin-top: 20px;
+}
+
+#content {
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	line-height: 18px;
+}
+
+#content .padding {
+	padding: 25px;
+	text-align: justify;
+	text-justify: newspaper
+}
+
+#sidebar-a .padding {
+	padding: 25px;
+}
+
+#footer {
+	clear: both;
+	font-family: Tahoma, Arial, Helvetica, Sans-serif;
+	font-size: 10px;
+	color: #c9c9c9;
+	border-top: 1px solid #efefef;
+	padding: 13px 25px;
+	line-height: 18px;
+}
+
+#footer a:hover {
+	color: #db6d16;
+}
+
+#footer #altnav {
+	width: 350px;
+	float: right;
+	text-align: right;
+}
+
+#toggleEditor,#cnotes{font-size: 12px;}
+.hidden {
+	display: none;
+}
+h1 {
+	margin: 0;
+	padding: 0;
+	float: right;
+	margin-top: 57px;
+	padding-right: 15px;
+}
+
+#content h2 {
+	margin: 0;
+	padding: 0;
+	padding-bottom: 15px;
+}
+.currentnotes{  margin-bottom: 19px; float:left;font-size: 19; color: #2C4359;}
+.savenotes{  float:left; font-size: 19; color: #2C4359;}
+.savegooglenotes{ float:left;  font-size: 19; color: #2C4359;}
+#resetButton{font-size:13px;margin-left: 39;}
+#content p {
+	margin: 0;
+	padding: 0;                                               
+	padding-bottom: 15px;
+}
+.floating-menu-formatting{
+	position:fixed;
+	margin-left: 55px;
+	float:right;
+	top: 100px;
+	/*background:#fff4c8;*/
+	background:white;
+	border:1px solid #ffcc00;
+	border-radius:5px;
+	/*width:100px;*/
+	z-index:100;
+	padding:5px;
+}
+
+
+div.floating-menu a, div.floating-menu h3 {
+	display:block;
+	margin:0 0.5em;
+}
+/*
+a
+{
+    color:#11c;
+    text-decoration:none
+}
+a:hover
+{
+    text-decoration:underline
+}*/
+
+#title
+{
+    color:#333;
+    font-size:20px;
+    margin:10px 0 0;
+    text-align:center
+}
+#page_title
+{
+	color:#333;
+    font-size:20px;
+  	padding-bottom:15px;
+    text-align:center
+}
+#option-table
+{
+    font-size:14px;
+	margin-left: 35%;
+	background:#fff4c8;
+	border:3px solid #ffcc00;
+	border-radius:5px;
+	padding:20px;
+	
+ }
+ /*
+a:link{color:grey;}
+a:active{color:grey;}
+a:visited{color:grey;}
+a:hover{color:red;}
+*/
+.yui-skin-sam
+{
+	margin-left:30px;
+		padding:20px;
+}
+
+
+.invisible{
+
+display:none;
+}
+
+.question
+{
+	font-size:16px;
+}
+
+.answer
+{
+	font-size:14px;
+}
+
+
+

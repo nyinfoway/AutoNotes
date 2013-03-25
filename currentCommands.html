@@ -1,0 +1,95 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+<title>Auto Notes current commands</title>
+<meta http-equiv="Content-Language" content="en-us" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta name="description" content="Your notes captured by Auto notes." />
+<meta name="keywords"
+	content="Auto notes extensions in chrome, Capture notes automatically in Chrome," />
+<meta name="author" content="NYInfoway LLC." />
+<link rel="icon" href="/images/app-nayana.ico" type="image/x-icon" />
+<script src="/js/jquery-1.7.1.js"></script>
+<script src="/js/jquery.jgrowl.js"></script>
+<script src="/js/home.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/jquery.jgrowl.css" />
+<link rel="stylesheet" type="text/css" href="/css/showNotes.css" />
+</head>
+<body onload="initLoad()">
+	<div id="page-container">
+		<div id="main-nav">
+			<dl class="hidden">
+				<dt id="about">
+					<a href="#">About</a>
+				</dt>
+				<dt id="services">
+					<a href="#">Services</a>
+				</dt>
+				<dt id="portfolio">
+					<a href="#">Portfolio</a>
+				</dt>
+				<dt id="contact">
+					<a href="#">Contact Us</a>
+				</dt>
+			</dl>
+			<div id="top-nav-right">
+				©2012 All rights reserved,<a href='http://nyinfoway.com/'
+					target='_blank'>NY Infoway LLC. </a>
+				<!--a target="_blank" href="http://www.nyinfoway.com/">NYInfoway LLC.</a-->
+			</div>
+		</div>
+		<div id="header">
+			<div id="top-menu-bar">
+				<strong>
+					<ul id="menu-list">
+						<li></li>
+						<li><a href="showNotes.html"><script
+									type="text/javascript">
+							document.write(chrome.i18n
+									.getMessage("menuBar_Notes"));
+						</script></a></li>
+						<!--li><a href="currentCommands.html"><script type="text/javascript">document.write(chrome.i18n.getMessage("menuBar_Commands"));</script>				</a></li-->
+						<li><a href="currentCommands.html"><script
+									type="text/javascript">
+							document.write(chrome.i18n
+									.getMessage("menuBar_Commands"));
+						</script></a></li>
+						<li><a href="autoNotesFAQ.html"><script
+									type="text/javascript">
+							document.write(chrome.i18n
+									.getMessage("menuBar_FAQ"));
+						</script></a></li>
+						<li><a href="availableFeatures.html"><script
+									type="text/javascript">
+							document.write(chrome.i18n
+									.getMessage("menuBar_Features"));
+						</script></a></li>
+						<li><a href="options.html"><script type="text/javascript">
+							document.write(chrome.i18n
+									.getMessage("menuBar_options"));
+						</script></a></li>
+
+					</ul>
+				</strong>
+			</div>
+		</div>
+		<div id="sidebar-b">
+			<div class="padding"></div>
+		</div>
+		<div id="sidebar-a">
+			<div class="padding"></div>
+		</div>
+		<div id="content">
+			<div id="page_title">
+				<script>
+					document
+							.write(chrome.i18n
+									.getMessage("showNotes_extension_current_commands"));
+				</script>
+			</div>
+		</div>
+		<div id="footer"></div>
+</body>
+</html>
