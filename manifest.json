@@ -2,7 +2,7 @@
   "name" : "__MSG_chrome_extension_name__",
   "version" : "1.2.0.11",
   "manifest_version":2,
-  "description" : "Smart, efficient and most private note taking tool extension for chrome. One click sync to google docs and more..",
+  "description" : "Smart, efficient and safe note taking tool extension for chrome. One click sync to google docs and more..",
  
   "background": { "scripts": 
 		["/js/jquery-1.7.1.js",
